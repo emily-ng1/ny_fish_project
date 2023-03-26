@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_a18677e0aa6d8c338e6122dbfb202bc5 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_a18677e0aa6d8c338e6122dbfb202bc5" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_a18677e0aa6d8c338e6122dbfb202bc5 = L.map(
+                "map_a18677e0aa6d8c338e6122dbfb202bc5",
+                {
+                    center: [44.0126, 75.7944],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 2,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_769cdcc2fc0fe8aa9d0f293a9e4a60b8 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_a18677e0aa6d8c338e6122dbfb202bc5);
+        
+    
+            var marker_1fb38b83b012eef3cfdfe4f36aaa3112 = L.marker(
+                [43.555043775, -75.319019606],
+                {}
+            ).addTo(map_a18677e0aa6d8c338e6122dbfb202bc5);
+        
+    
+        var popup_acacb66a67082fbbe0ea82bbd8cc5dbb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9161d0858f3394526a48448cea50f8ca = $(`<div id="html_9161d0858f3394526a48448cea50f8ca" style="width: 100.0%; height: 100.0%;">Brook Trout* - Brown Trout* - Rainbow Trout*</div>`)[0];
+                popup_acacb66a67082fbbe0ea82bbd8cc5dbb.setContent(html_9161d0858f3394526a48448cea50f8ca);
+            
+        
+
+        marker_1fb38b83b012eef3cfdfe4f36aaa3112.bindPopup(popup_acacb66a67082fbbe0ea82bbd8cc5dbb)
+        ;
+
+        
+    
+    
+            var marker_64e932193bacc76cb93383bf5dc27641 = L.marker(
+                [43.479243148, -75.249004417],
+                {}
+            ).addTo(map_a18677e0aa6d8c338e6122dbfb202bc5);
+        
+    
+        var popup_7644fd061c5d68f5143f4b3f9df2d38c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3f158af2cce7b16beca34be78c310b0d = $(`<div id="html_3f158af2cce7b16beca34be78c310b0d" style="width: 100.0%; height: 100.0%;">Brook Trout* - Brown Trout* - Rainbow Trout*</div>`)[0];
+                popup_7644fd061c5d68f5143f4b3f9df2d38c.setContent(html_3f158af2cce7b16beca34be78c310b0d);
+            
+        
+
+        marker_64e932193bacc76cb93383bf5dc27641.bindPopup(popup_7644fd061c5d68f5143f4b3f9df2d38c)
+        ;
+
+        
+    
+    
+            var marker_41d9c12724d646368151d1789662967b = L.marker(
+                [43.774773516, -75.446703206],
+                {}
+            ).addTo(map_a18677e0aa6d8c338e6122dbfb202bc5);
+        
+    
+        var popup_05f0d5503fdc6f8316ef989c361192e7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d2ef9a773e769001c21be75c4a9de802 = $(`<div id="html_d2ef9a773e769001c21be75c4a9de802" style="width: 100.0%; height: 100.0%;">Brown Trout* - Rainbow Trout* - Walleye</div>`)[0];
+                popup_05f0d5503fdc6f8316ef989c361192e7.setContent(html_d2ef9a773e769001c21be75c4a9de802);
+            
+        
+
+        marker_41d9c12724d646368151d1789662967b.bindPopup(popup_05f0d5503fdc6f8316ef989c361192e7)
+        ;
+
+        
+    
+    
+            var marker_2e0400db732aad8970c5af5f95c2d639 = L.marker(
+                [43.493377775, -75.274035848],
+                {}
+            ).addTo(map_a18677e0aa6d8c338e6122dbfb202bc5);
+        
+    
+        var popup_fe426f4247247c81e52ac8e05935f8c5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ee5b4e3ede3e8847fcf6891feb6f3163 = $(`<div id="html_ee5b4e3ede3e8847fcf6891feb6f3163" style="width: 100.0%; height: 100.0%;">Brook Trout* - Brown Trout* - Rainbow Trout*</div>`)[0];
+                popup_fe426f4247247c81e52ac8e05935f8c5.setContent(html_ee5b4e3ede3e8847fcf6891feb6f3163);
+            
+        
+
+        marker_2e0400db732aad8970c5af5f95c2d639.bindPopup(popup_fe426f4247247c81e52ac8e05935f8c5)
+        ;
+
+        
+    
+    
+            var marker_713ac54c6a1575487e7bb6377efbd8e9 = L.marker(
+                [43.536918159, -75.30897245],
+                {}
+            ).addTo(map_a18677e0aa6d8c338e6122dbfb202bc5);
+        
+    
+        var popup_05f13387c9739630fb5e2532ca0513cd = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_069d6f18394aed852bf5b931eea91ce7 = $(`<div id="html_069d6f18394aed852bf5b931eea91ce7" style="width: 100.0%; height: 100.0%;">Brook Trout* - Brown Trout* - Rainbow Trout*</div>`)[0];
+                popup_05f13387c9739630fb5e2532ca0513cd.setContent(html_069d6f18394aed852bf5b931eea91ce7);
+            
+        
+
+        marker_713ac54c6a1575487e7bb6377efbd8e9.bindPopup(popup_05f13387c9739630fb5e2532ca0513cd)
+        ;
+
+        
+    
+    
+            var marker_5ab92870eeba5477511ee3ebef7c67d9 = L.marker(
+                [43.985833174, -75.92431464],
+                {}
+            ).addTo(map_a18677e0aa6d8c338e6122dbfb202bc5);
+        
+    
+        var popup_9940fd684d1dd7fde949a8a3790090cc = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5bf6676dc53d177adc126f7162f22526 = $(`<div id="html_5bf6676dc53d177adc126f7162f22526" style="width: 100.0%; height: 100.0%;">Brown Trout* - Steelhead* - Coho Salmon - Chinook Salmon* - Smallmouth Bass - Sunfish - Yellow Perch - Northern Pike - Chain Pickerel - Walleye - Carp - Channel Catfish</div>`)[0];
+                popup_9940fd684d1dd7fde949a8a3790090cc.setContent(html_5bf6676dc53d177adc126f7162f22526);
+            
+        
+
+        marker_5ab92870eeba5477511ee3ebef7c67d9.bindPopup(popup_9940fd684d1dd7fde949a8a3790090cc)
+        ;
+
+        
+    
+    
+            var marker_052e014b469e987a2a8ac44bfd0c7fef = L.marker(
+                [43.895235137, -75.50521032],
+                {}
+            ).addTo(map_a18677e0aa6d8c338e6122dbfb202bc5);
+        
+    
+        var popup_22fee317c7e59c493d024d443b905efe = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3671f7546a3871f4a975ce72fd8e7f84 = $(`<div id="html_3671f7546a3871f4a975ce72fd8e7f84" style="width: 100.0%; height: 100.0%;">Brown Trout* - Rainbow Trout* - Walleye</div>`)[0];
+                popup_22fee317c7e59c493d024d443b905efe.setContent(html_3671f7546a3871f4a975ce72fd8e7f84);
+            
+        
+
+        marker_052e014b469e987a2a8ac44bfd0c7fef.bindPopup(popup_22fee317c7e59c493d024d443b905efe)
+        ;
+
+        
+    
+    
+            var marker_7321f71a02366604062959abd63d63a2 = L.marker(
+                [43.443823877, -75.211095217],
+                {}
+            ).addTo(map_a18677e0aa6d8c338e6122dbfb202bc5);
+        
+    
+        var popup_e83120b4806477f3089e805855728034 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_74adad954315fe112bf13d72d4017b45 = $(`<div id="html_74adad954315fe112bf13d72d4017b45" style="width: 100.0%; height: 100.0%;">Brook Trout* - Brown Trout* - Rainbow Trout*</div>`)[0];
+                popup_e83120b4806477f3089e805855728034.setContent(html_74adad954315fe112bf13d72d4017b45);
+            
+        
+
+        marker_7321f71a02366604062959abd63d63a2.bindPopup(popup_e83120b4806477f3089e805855728034)
+        ;
+
+        
+    
+    
+            var marker_33f692323bec8187b3bb461bce96dc16 = L.marker(
+                [43.570249921, -75.330775915],
+                {}
+            ).addTo(map_a18677e0aa6d8c338e6122dbfb202bc5);
+        
+    
+        var popup_b1208a8032dbc62ff8b80017c7a4cb13 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_7b678fda73ed43bd0b1b22e7519feda3 = $(`<div id="html_7b678fda73ed43bd0b1b22e7519feda3" style="width: 100.0%; height: 100.0%;">Brook Trout* - Brown Trout* - Rainbow Trout*</div>`)[0];
+                popup_b1208a8032dbc62ff8b80017c7a4cb13.setContent(html_7b678fda73ed43bd0b1b22e7519feda3);
+            
+        
+
+        marker_33f692323bec8187b3bb461bce96dc16.bindPopup(popup_b1208a8032dbc62ff8b80017c7a4cb13)
+        ;
+
+        
+    
+    
+            var marker_182bdf65df519780aa3e0518954240e3 = L.marker(
+                [44.005357127, -76.046180361],
+                {}
+            ).addTo(map_a18677e0aa6d8c338e6122dbfb202bc5);
+        
+    
+        var popup_62f73f7698de5f1e63dabbe5bc3a03f0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5f1b1e9c59acde983f35fe9c2cece25a = $(`<div id="html_5f1b1e9c59acde983f35fe9c2cece25a" style="width: 100.0%; height: 100.0%;">Brown Trout* - Steelhead* - Coho Salmon - Chinook Salmon* - Smallmouth Bass - Sunfish - Yellow Perch - Northern Pike - Chain Pickerel - Walleye - Carp - Channel Catfish</div>`)[0];
+                popup_62f73f7698de5f1e63dabbe5bc3a03f0.setContent(html_5f1b1e9c59acde983f35fe9c2cece25a);
+            
+        
+
+        marker_182bdf65df519780aa3e0518954240e3.bindPopup(popup_62f73f7698de5f1e63dabbe5bc3a03f0)
+        ;
+
+        
+    
+    
+            var marker_02e77d5b9c3ff6692328b932e8d944a2 = L.marker(
+                [43.504477636, -75.291436042],
+                {}
+            ).addTo(map_a18677e0aa6d8c338e6122dbfb202bc5);
+        
+    
+        var popup_499e978e722f05eff7e6d61d3937fc8e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_7b9392fe3717f8ce1f4410c2d30e9b0d = $(`<div id="html_7b9392fe3717f8ce1f4410c2d30e9b0d" style="width: 100.0%; height: 100.0%;">Brook Trout* - Brown Trout* - Rainbow Trout*</div>`)[0];
+                popup_499e978e722f05eff7e6d61d3937fc8e.setContent(html_7b9392fe3717f8ce1f4410c2d30e9b0d);
+            
+        
+
+        marker_02e77d5b9c3ff6692328b932e8d944a2.bindPopup(popup_499e978e722f05eff7e6d61d3937fc8e)
+        ;
+
+        
+    
+    
+            var marker_7b32d4e3a8b2524b9b04e2b6b8c67ce5 = L.marker(
+                [43.678649799, -75.365357639],
+                {}
+            ).addTo(map_a18677e0aa6d8c338e6122dbfb202bc5);
+        
+    
+        var popup_50af5abaa27b4cd3a5b188e61526a637 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_35b46af3e488bb0a4d49b721190acf19 = $(`<div id="html_35b46af3e488bb0a4d49b721190acf19" style="width: 100.0%; height: 100.0%;">Brown Trout* - Rainbow Trout* - Walleye</div>`)[0];
+                popup_50af5abaa27b4cd3a5b188e61526a637.setContent(html_35b46af3e488bb0a4d49b721190acf19);
+            
+        
+
+        marker_7b32d4e3a8b2524b9b04e2b6b8c67ce5.bindPopup(popup_50af5abaa27b4cd3a5b188e61526a637)
+        ;
+
+        
+    
+    
+            var marker_0a1cc8874ff86cecb1836e18c2b753d8 = L.marker(
+                [43.396659736, -75.131830064],
+                {}
+            ).addTo(map_a18677e0aa6d8c338e6122dbfb202bc5);
+        
+    
+        var popup_7af57063a3d22ff63903f39b6f2cf03a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_210f3db80058a085cbc64cdd1e66325e = $(`<div id="html_210f3db80058a085cbc64cdd1e66325e" style="width: 100.0%; height: 100.0%;">Brook Trout* - Brown Trout* - Rainbow Trout*</div>`)[0];
+                popup_7af57063a3d22ff63903f39b6f2cf03a.setContent(html_210f3db80058a085cbc64cdd1e66325e);
+            
+        
+
+        marker_0a1cc8874ff86cecb1836e18c2b753d8.bindPopup(popup_7af57063a3d22ff63903f39b6f2cf03a)
+        ;
+
+        
+    
+    
+            var marker_b8b1f933f6e6b437e8a902da4a8d6faf = L.marker(
+                [43.54894534, -75.321558836],
+                {}
+            ).addTo(map_a18677e0aa6d8c338e6122dbfb202bc5);
+        
+    
+        var popup_b698d9011dd11e469fd979dc78c6b4d7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5afba3d25f4421a9821959fdde390e0e = $(`<div id="html_5afba3d25f4421a9821959fdde390e0e" style="width: 100.0%; height: 100.0%;">Brook Trout* - Brown Trout* - Rainbow Trout*</div>`)[0];
+                popup_b698d9011dd11e469fd979dc78c6b4d7.setContent(html_5afba3d25f4421a9821959fdde390e0e);
+            
+        
+
+        marker_b8b1f933f6e6b437e8a902da4a8d6faf.bindPopup(popup_b698d9011dd11e469fd979dc78c6b4d7)
+        ;
+
+        
+    
+    
+            var marker_90da4f8d4bcbbde0cc92b2c89ce674ea = L.marker(
+                [43.53254981, -75.3076741],
+                {}
+            ).addTo(map_a18677e0aa6d8c338e6122dbfb202bc5);
+        
+    
+        var popup_d5d259fa8a1004a8da8a3e756145cffd = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6e108ee103a5634cbbe67c8eda0b9a18 = $(`<div id="html_6e108ee103a5634cbbe67c8eda0b9a18" style="width: 100.0%; height: 100.0%;">Brook Trout* - Brown Trout* - Rainbow Trout*</div>`)[0];
+                popup_d5d259fa8a1004a8da8a3e756145cffd.setContent(html_6e108ee103a5634cbbe67c8eda0b9a18);
+            
+        
+
+        marker_90da4f8d4bcbbde0cc92b2c89ce674ea.bindPopup(popup_d5d259fa8a1004a8da8a3e756145cffd)
+        ;
+
+        
+    
+    
+            var marker_247b1347fe2465221687c6d8dd16554b = L.marker(
+                [44.005820035, -76.040388249],
+                {}
+            ).addTo(map_a18677e0aa6d8c338e6122dbfb202bc5);
+        
+    
+        var popup_ac31aaea47dbfe99b937063dd14991f3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d163fe38064cfe4ac12bee77ebd613ab = $(`<div id="html_d163fe38064cfe4ac12bee77ebd613ab" style="width: 100.0%; height: 100.0%;">Brown Trout* - Steelhead* - Coho Salmon - Chinook Salmon* - Smallmouth Bass - Sunfish - Yellow Perch - Northern Pike - Chain Pickerel - Walleye - Carp - Channel Catfish</div>`)[0];
+                popup_ac31aaea47dbfe99b937063dd14991f3.setContent(html_d163fe38064cfe4ac12bee77ebd613ab);
+            
+        
+
+        marker_247b1347fe2465221687c6d8dd16554b.bindPopup(popup_ac31aaea47dbfe99b937063dd14991f3)
+        ;
+
+        
+    
+    
+            var marker_ae9b7e563ad3da3984dd8a3788794f48 = L.marker(
+                [43.711130585, -75.398932569],
+                {}
+            ).addTo(map_a18677e0aa6d8c338e6122dbfb202bc5);
+        
+    
+        var popup_2ae6b08887131415d1df2fcc1e49af7a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_143fdd6f717e67937dade1ee01903644 = $(`<div id="html_143fdd6f717e67937dade1ee01903644" style="width: 100.0%; height: 100.0%;">Brown Trout* - Rainbow Trout* - Walleye</div>`)[0];
+                popup_2ae6b08887131415d1df2fcc1e49af7a.setContent(html_143fdd6f717e67937dade1ee01903644);
+            
+        
+
+        marker_ae9b7e563ad3da3984dd8a3788794f48.bindPopup(popup_2ae6b08887131415d1df2fcc1e49af7a)
+        ;
+
+        
+    
+    
+            var marker_38e1cb3ed0d2d0b2dcbbbc2b44d7f525 = L.marker(
+                [43.507695701, -75.285720994],
+                {}
+            ).addTo(map_a18677e0aa6d8c338e6122dbfb202bc5);
+        
+    
+        var popup_7aeb6464f3d433389a86c5302e5f3234 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_48ce327c74085729246ed973c64908fc = $(`<div id="html_48ce327c74085729246ed973c64908fc" style="width: 100.0%; height: 100.0%;">Brook Trout* - Brown Trout* - Rainbow Trout*</div>`)[0];
+                popup_7aeb6464f3d433389a86c5302e5f3234.setContent(html_48ce327c74085729246ed973c64908fc);
+            
+        
+
+        marker_38e1cb3ed0d2d0b2dcbbbc2b44d7f525.bindPopup(popup_7aeb6464f3d433389a86c5302e5f3234)
+        ;
+
+        
+    
+</script>
+</html>
