@@ -29,7 +29,13 @@ def create_app(db_name, user, password):
 
     @app.route("/fishes/<fish_id>")
     def fish_show(fish_id):
-        pass
+        conn=psycopg2.connect(dbname=app.config["DATABASE_NAME"], user=app.config["USER"], password=app.config["PASSWORD"])
+        cursor=conn.cursor()
+        cursor.execute("SELECT * FROM ny_fishes WHERE year=2021 AND id=%s;", (fish_id,))
+        fish_record=cursor.fetchone()
+        fish_obj=build_from_record(Fish, fish_record)
+        fish_dict=fish_obj.__dict__
+        return jsonify(fish_dict)
 
     return app
 
