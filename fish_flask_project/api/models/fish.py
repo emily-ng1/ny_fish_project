@@ -1,6 +1,3 @@
-
-
-
 class Fish:
     __table__="ny_fishes"
     columns=["id", "year", "county", "waterbody", "town", "month", "number", "species", "size_inches"]

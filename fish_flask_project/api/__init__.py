@@ -1,7 +1,7 @@
 from flask import Flask, jsonify, render_template
 import psycopg2
-#from fish_flask_project.settings import DB_NAME, DB_USER, DB_PASSWORD
-
+from api.models import Fish
+from api.lib.db import build_from_record, build_from_records
 
 
 def create_app(db_name, user, password):
@@ -22,8 +22,10 @@ def create_app(db_name, user, password):
         conn=psycopg2.connect(database=app.config["DATABASE_NAME"], user=app.config["USER"], password=app.config["PASSWORD"])
         cursor=conn.cursor()
         cursor.execute("SELECT * FROM ny_fishes WHERE year=2021;")
-        tuples=cursor.fetchall()
-        return jsonify(tuples)
+        fish_records=cursor.fetchall()
+        fish_objs=build_from_records(Fish, fish_records)
+        fish_dicts=[fish_obj.__dict__ for fish_obj in fish_objs]
+        return jsonify(fish_dicts)
 
     @app.route("/fishes/<fish_id>")
     def fish_show(fish_id):
@@ -31,4 +33,3 @@ def create_app(db_name, user, password):
 
     return app
 
-#app.run(debug=True).
