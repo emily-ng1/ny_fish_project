@@ -11,7 +11,8 @@ sizes_df.to_csv("sql_ny_fish_size.csv", index=False) #Convert pandas df to csv f
 conn=sqlite3.connect("fish_size.db")
 cursor=conn.cursor()
 
-url="https://raw.githubusercontent.com/emily-ng1/ny_fish_project/main/sql_ny_fish_size.csv"
+#We can pull that CSV file from Github
+url="https://raw.githubusercontent.com/emily-ng1/ny_fish_project/main/sql_fish_sizes/sql_ny_fish_size.csv"
 fish_sizes_df=pd.read_csv(url)
 
 fish_sizes_df.to_sql("fish_sizes", conn, if_exists="replace") #1000
@@ -78,7 +79,7 @@ cursor.fetchall()
 #  ('Tiger Muskellunge', 1),
 #  ('Sauger', 1)]
 
-#3. Which body of water has the most Brown Trout with the biggest size in year 2021?
+#3. Which body of water has the most Brown Trout added with the biggest size in year 2021?
 statement='''
 SELECT *
 FROM fish_sizes
@@ -103,7 +104,7 @@ cursor.fetchall()
 #   'Brown Trout',
 #   24.0)]
 
-#4. Which body of water is the smallest fish found for year 2021?
+#4. Which body of water is the smallest fish added in for year 2021?
 statement='''
 SELECT species, size_inches, waterbody
 FROM fish_sizes
@@ -116,7 +117,7 @@ cursor.execute(statement)
 cursor.fetchall()
 #[('Walleye', 0.1, 'Black Lake')]
 
-#5. Which county has the most vary size for Brown Trout in 2021?
+#5. Which county added the most vary size for Brown Trout in 2021?
 statement='''
 SELECT county, species, COUNT(*)
 FROM fish_sizes

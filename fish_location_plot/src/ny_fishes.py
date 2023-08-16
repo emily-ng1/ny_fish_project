@@ -30,7 +30,7 @@ def fish_species(fishes):
     unique_fishes=list(set(all_species))
     return sorted(unique_fishes)
 
-#Get List of unque fish species
+#Get List of unique fish species
 fishes=get_fish_data()
 unique_fish_species=fish_species(fishes)
 

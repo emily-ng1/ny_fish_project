@@ -1,0 +1,1001 @@
+year,county,waterbody,town,month,number,species,size_inches
+2021,Warren,Accessible Pond 1,Hatchery,April,30,Rainbow Trout,9.5
+2021,Warren,Accessible Pond 1,Hatchery,April,30,Rainbow Trout,9.3
+2021,Warren,Accessible Pond 1,Hatchery,April,30,Rainbow Trout,9.9
+2021,Warren,Accessible Pond 1,Hatchery,April,30,Rainbow Trout,9.9
+2021,Warren,Accessible Pond 1,Hatchery,March,10,Rainbow Trout,14.9
+2021,Warren,Accessible Pond 1,Hatchery,March,30,Rainbow Trout,9.5
+2021,Warren,Accessible Pond 1,Hatchery,May,40,Rainbow Trout,9.3
+2021,Clinton,Ace Club Pond,Altona,April,130,Rainbow Trout,8.2
+2021,Lewis,Alder Creek,High Market,May,160,Brown Trout,13.3
+2021,Lewis,Alder Creek,High Market,May,1400,Brown Trout,8.5
+2021,Lewis,Alder Creek,High Market,May,70,Brown Trout,13.3
+2021,Essex,Alder Meadow Brook,Schroon,March,300,Brook Trout,8.0
+2021,Hamilton,Ale Pond,Morehouse,September,450,Brook Trout,3.7
+2021,Cattaraugus,Allegheny Reservoir,Coldspring,May,6280,Sauger,1.2
+2021,Cattaraugus,Allegheny River,Allegany,May,8940,Muskellunge,0.6
+2021,Cattaraugus,Allegheny River,Allegany/Portville,October,1050,Muskellunge,8.7
+2021,Allegany,Allen Lake,Allen,April,500,Brown Trout,13.7
+2021,Allegany,Allen Lake,Allen,April,1340,Brook Trout,9.6
+2021,Allegany,Allen Lake,Allen,April,2440,Rainbow Trout,9.6
+2021,Allegany,Allen Lake,Allen,October,590,Brook Trout,12.8
+2021,Allegany,Allen Lake,Allen,October,150,Rainbow Trout,21.5
+2021,St Lawrence,Allen Pond,Clare,October,600,Brook Trout,4.0
+2021,Clinton,Altona School Pond,Altona,April,90,Rainbow Trout,8.2
+2021,Westchester,Amawalk Inlet (Muscoot River),Somers,March,50,Brown Trout,13.2
+2021,Westchester,Amawalk Inlet (Muscoot River),Somers,March,460,Brown Trout,8.8
+2021,Westchester,Amawalk Reservoir,Somers,March,1860,Brown Trout,8.7
+2021,Westchester,Amawalk Reservoir,Somers,November,2000,Brown Trout,7.3
+2021,Hamilton,Amos Lake,Arietta,September,300,Brook Trout,3.7
+2021,Broome,Arctic Lake,Sanford,April,2180,Rainbow Trout,8.7
+2021,Suffolk,Argyle Lake,Babylon,March,440,Rainbow Trout,9.2
+2021,Suffolk,Argyle Lake,Babylon,March,150,Brown Trout,13.2
+2021,Suffolk,Argyle Lake,Babylon,November,120,Brown Trout,12.2
+2021,Suffolk,Argyle Lake,Babylon,October,240,Brown Trout,12.2
+2021,Otsego,Arnold Lake,Hartwick,April,370,Brown Trout,8.9
+2021,Otsego,Arnold Lake,Hartwick,June,1600,Rainbow Trout,3.3
+2021,Otsego,Arnold Lake,Hartwick,May,350,Rainbow Trout,9.2
+2021,Otsego,Arnold Lake,Hartwick,October,1110,Rainbow Trout,6.5
+2021,Ulster,Ashokan Reservoir,Hurley Olive,November,10000,Brown Trout,7.3
+2021,Ulster,Ashokan Reservoir,Olive,November,9000,Brown Trout,7.3
+2021,Ulster,Ashokan Reservoir (East Basin),Hurley Olive,April,9300,Brown Trout,8.9
+2021,Ulster,Ashokan Reservoir (West Basin),Olive,April,8370,Brown Trout,8.9
+2021,Orange,Askoti Lake,Tuxedo,April,740,Brown Trout,8.9
+2021,Orange,Askoti Lake,Tuxedo,April,100,Brown Trout,13.3
+2021,Essex,Ausable River,Chesterfield,May,500,Brown Trout,13.0
+2021,Essex,Ausable River,Chesterfield,May,500,Rainbow Trout,13.0
+2021,Essex,Ausable River,Jay,April,400,Rainbow Trout,13.0
+2021,Essex,Ausable River,Jay,May,400,Brown Trout,13.0
+2021,Fulton,Ayers Creek,Stratford,April,40,Brown Trout,13.5
+2021,Fulton,Ayers Creek,Stratford,April,360,Brown Trout,8.7
+2021,Essex,Baily Pond,Schroon,September,400,Brook Trout,3.9
+2021,Essex,Balfour Lake,Minerva,April,650,Rainbow Trout,8.5
+2021,Essex,Balfour Lake,Minerva,May,650,Rainbow Trout,9.0
+2021,Schuyler,Ballard Pond,Hector,April,270,Brook Trout,8.3
+2021,Hamilton,Balsam Lake,Arietta,October,1600,Brook Trout,4.0
+2021,Essex,Barkeater Pond,Keene,May,125,Rainbow Trout,18.0
+2021,Essex,Barkeater Pond,Keene,May,200,Rainbow Trout,13.0
+2021,Essex,Barkeater Pond,Keene,May,100,Brown Trout,13.0
+2021,Hamilton,Barker Pond,Indian Lake,September,300,Brook Trout,4.0
+2021,Essex,Bartlett Pond,Moriah,April,300,Brown Trout,13.0
+2021,Essex,Bartlett Pond,North Elba,October,200,Brook Trout,4.0
+2021,Greene,Basic Creek,Greenville,May,30,Brown Trout,13.7
+2021,Greene,Basic Creek,Greenville,May,310,Rainbow Trout,8.9
+2021,Albany,Basic Creek,Westerlo,April,30,Brown Trout,13.7
+2021,Albany,Basic Creek,Westerlo,April,260,Rainbow Trout,9.2
+2021,Essex,Bass Lake,North Hudson,May,350,Rainbow Trout,8.3
+2021,Otsego,Basswood Pond,Burlington,May,90,Rainbow Trout,9.5
+2021,Otsego,Basswood Pond,Burlington,May,280,Brown Trout,8.8
+2021,Otsego,Basswood Pond,Burlington,May,130,Brown Trout,14.1
+2021,Otsego,Basswood Pond,Burlington,November,65,Rainbow Trout,12.1
+2021,Otsego,Basswood Pond,Burlington,November,850,Rainbow Trout,7.0
+2021,Greene,Batavia Kill,Ashland,April,390,Brown Trout,13.5
+2021,Greene,Batavia Kill,Ashland,April,3520,Brown Trout,8.8
+2021,Greene,Batavia Kill,Windham,April,50,Brown Trout,13.5
+2021,Greene,Batavia Kill,Windham,April,50,Brown Trout,13.5
+2021,Greene,Batavia Kill,Windham,April,50,Brown Trout,13.5
+2021,Greene,Batavia Kill,Windham,April,410,Brown Trout,8.8
+2021,Greene,Batavia Kill,Windham,April,430,Brown Trout,8.8
+2021,Greene,Batavia Kill,Windham,April,470,Brown Trout,8.8
+2021,Washington,Batten Kill,Greenwich,April,240,Brown Trout,13.3
+2021,Washington,Batten Kill,Greenwich,April,2180,Brown Trout,8.7
+2021,Washington,Batten Kill,Greenwich,June,220,Brown Trout,13.1
+2021,Washington,Batten Kill,Greenwich,June,1000,Brown Trout,9.0
+2021,Washington,Batten Kill,Greenwich,May,1000,Brown Trout,8.8
+2021,Washington,Batten Kill,Greenwich,May,1000,Brown Trout,8.9
+2021,Washington,Batten Kill,Greenwich,May,110,Brown Trout,13.6
+2021,Washington,Batten Kill,Greenwich,May,1000,Brown Trout,8.8
+2021,Washington,Batten Kill,Greenwich,May,110,Brown Trout,13.6
+2021,Washington,Batten Kill,Greenwich,May,110,Brown Trout,13.2
+2021,Washington,Batten Kill,Salem,April,500,Brown Trout,8.9
+2021,Washington,Batten Kill,Salem,April,500,Brown Trout,8.7
+2021,Washington,Batten Kill,Salem,April,60,Brown Trout,13.3
+2021,Washington,Batten Kill,Salem,April,10,Brown Trout,13.3
+2021,Washington,Batten Kill,Salem,April,50,Brown Trout,13.1
+2021,Washington,Batten Kill,Salem,June,2560,Brown Trout,9.0
+2021,Washington,Batten Kill,Salem,June,480,Brown Trout,13.1
+2021,Washington,Batten Kill,Salem,May,500,Brown Trout,8.9
+2021,Washington,Batten Kill,Salem,May,2560,Brown Trout,8.8
+2021,Washington,Batten Kill,Salem,May,2560,Brown Trout,8.9
+2021,Washington,Batten Kill,Salem,May,280,Brown Trout,13.6
+2021,Washington,Batten Kill,Salem,May,280,Brown Trout,13.2
+2021,Washington,Batten Kill,Salem,May,280,Brown Trout,13.6
+2021,Washington,Batten Kill,Salem,May,60,Brown Trout,13.3
+2021,Washington,Batten Kill,Salem,May,500,Brown Trout,8.7
+2021,Washington,Batten Kill,Salem,May,60,Brown Trout,13.1
+2021,Washington,Batten Kill,Salem,May,2560,Brown Trout,8.8
+2021,Hamilton,Bear Lake,Morehouse,September,400,Brook Trout,3.7
+2021,Chautauqua,Bear Lake,Pomfret,June,3344,Walleye,1.5
+2021,Chautauqua,Bear Lake,Stockton,October,550,Muskellunge,8.8
+2021,Chautauqua,Bear Lake Outlet,Stockton,April,40,Brown Trout,13.1
+2021,Chautauqua,Bear Lake Outlet,Stockton,April,340,Rainbow Trout,9.5
+2021,Hamilton,Bear Pond,Arietta,September,300,Brook Trout,3.8
+2021,Franklin,Bear Pond,Harrietstown,October,1400,Brook Trout,4.0
+2021,Essex,Bear Pond,Ticonderoga,September,800,Brook Trout,3.9
+2021,Herkimer,Bear Pond,Webb,October,2800,Brook Trout,4.0
+2021,Herkimer,Beardsley Lake,Manheim,April,3810,Brown Trout,8.6
+2021,Herkimer,Beardsley Lake,Manheim,June,3830,Walleye,1.4
+2021,Sullivan,Beaver Brook,Highland,April,40,Brown Trout,13.7
+2021,Sullivan,Beaver Brook,Highland,April,320,Brown Trout,8.8
+2021,Essex,Beaver Brook,Wilmington,May,300,Brook Trout,8.0
+2021,Madison,Beaver Creek,Brookfield,April,1070,Brown Trout,8.6
+2021,Madison,Beaver Creek,Brookfield,April,120,Brown Trout,13.3
+2021,Delaware,Beaver Kill,Colchester,April,680,Brown Trout,8.7
+2021,Delaware,Beaver Kill,Colchester,April,100,Brown Trout,13.1
+2021,Delaware,Beaver Kill,Colchester,April,80,Brown Trout,13.4
+2021,Delaware,Beaver Kill,Colchester,April,900,Brown Trout,8.7
+2021,Delaware,Beaver Kill,Colchester,April,60,Brown Trout,13.1
+2021,Delaware,Beaver Kill,Colchester,April,570,Brown Trout,8.7
+2021,Delaware,Beaver Kill,Colchester,April,80,Brown Trout,13.1
+2021,Delaware,Beaver Kill,Colchester,April,680,Brown Trout,8.8
+2021,Delaware,Beaver Kill,Colchester,April,570,Brown Trout,8.8
+2021,Delaware,Beaver Kill,Colchester,April,100,Brown Trout,13.4
+2021,Delaware,Beaver Kill,Colchester,April,60,Brown Trout,13.4
+2021,Delaware,Beaver Kill,Colchester,April,900,Brown Trout,8.8
+2021,Delaware,Beaver Kill,Colchester,May,900,Brown Trout,8.8
+2021,Delaware,Beaver Kill,Colchester,May,570,Brown Trout,8.8
+2021,Delaware,Beaver Kill,Colchester,May,100,Brown Trout,14.1
+2021,Delaware,Beaver Kill,Colchester,May,60,Brown Trout,14.1
+2021,Delaware,Beaver Kill,Colchester,May,680,Brown Trout,8.8
+2021,Delaware,Beaver Kill,Colchester,May,80,Brown Trout,14.1
+2021,Delaware,Beaver Kill,Colchester,May,570,Brown Trout,8.9
+2021,Delaware,Beaver Kill,Colchester,May,150,Brown Trout,13.6
+2021,Delaware,Beaver Kill,Colchester,May,900,Brown Trout,8.9
+2021,Delaware,Beaver Kill,Colchester,May,680,Brown Trout,8.9
+2021,Delaware,Beaver Kill,Colchester,May,250,Brown Trout,13.6
+2021,Delaware,Beaver Kill,Colchester,May,190,Brown Trout,13.6
+2021,Sullivan,Beaver Kill,Rockland,April,50,Brown Trout,13.7
+2021,Sullivan,Beaver Kill,Rockland,April,430,Brown Trout,8.9
+2021,Sullivan,Beaver Kill,Rockland,April,80,Brown Trout,13.7
+2021,Sullivan,Beaver Kill,Rockland,April,740,Brown Trout,8.9
+2021,Sullivan,Beaver Kill,Rockland,April,570,Brown Trout,8.9
+2021,Sullivan,Beaver Kill,Rockland,April,60,Brown Trout,13.7
+2021,Sullivan,Beaver Kill,Rockland,June,240,Brown Trout,13.1
+2021,Sullivan,Beaver Kill,Rockland,June,195,Brown Trout,13.1
+2021,Sullivan,Beaver Kill,Rockland,June,315,Brown Trout,13.1
+2021,Sullivan,Beaver Kill,Rockland,May,570,Brown Trout,8.8
+2021,Sullivan,Beaver Kill,Rockland,May,60,Brown Trout,13.1
+2021,Sullivan,Beaver Kill,Rockland,May,80,Brown Trout,13.1
+2021,Sullivan,Beaver Kill,Rockland,May,50,Brown Trout,13.1
+2021,Sullivan,Beaver Kill,Rockland,May,430,Brown Trout,8.9
+2021,Sullivan,Beaver Kill,Rockland,May,80,Brown Trout,13.1
+2021,Sullivan,Beaver Kill,Rockland,May,740,Brown Trout,8.9
+2021,Sullivan,Beaver Kill,Rockland,May,570,Brown Trout,8.9
+2021,Sullivan,Beaver Kill,Rockland,May,50,Brown Trout,13.1
+2021,Sullivan,Beaver Kill,Rockland,May,430,Brown Trout,8.9
+2021,Sullivan,Beaver Kill,Rockland,May,60,Brown Trout,14.1
+2021,Sullivan,Beaver Kill,Rockland,May,740,Brown Trout,8.9
+2021,Sullivan,Beaver Kill,Rockland,May,60,Brown Trout,13.1
+2021,Sullivan,Beaver Kill,Rockland,May,50,Brown Trout,14.1
+2021,Sullivan,Beaver Kill,Rockland,May,430,Brown Trout,8.8
+2021,Sullivan,Beaver Kill,Rockland,May,80,Brown Trout,14.1
+2021,Sullivan,Beaver Kill,Rockland,May,740,Brown Trout,8.8
+2021,Sullivan,Beaver Kill,Rockland,May,570,Brown Trout,8.9
+2021,Hamilton,Beaver Lake,Morehouse,May,1300,Brown Trout,8.4
+2021,Cattaraugus,Beaver Meadow Creek,Ellicottville,April,290,Brown Trout,9.4
+2021,Cattaraugus,Beaver Meadow Creek,Ellicottville,April,30,Brown Trout,13.1
+2021,Oswego,Beaverdam Brook,Albion,April,157450,Steelhead,5.9
+2021,Oswego,Beaverdam Brook,Albion,April,51700,Steelhead,4.6
+2021,Oswego,Beaverdam Brook,Albion,April,105953,Coho,2.5
+2021,Oswego,Beaverdam Brook,Albion,June,89687,Steelhead,1.0
+2021,Hamilton,Beaverdam Pond,Morehouse,September,200,Brook Trout,3.7
+2021,Ulster,Beer Kill,Wawarsing,April,100,Brown Trout,13.7
+2021,Ulster,Beer Kill,Wawarsing,April,870,Brown Trout,8.9
+2021,Suffolk,Belmont Lake,Babylon,April,250,Brown Trout,13.7
+2021,Suffolk,Belmont Lake,Babylon,April,870,Rainbow Trout,8.9
+2021,Suffolk,Belmont Lake,Babylon,April,190,Brown Trout,8.9
+2021,Suffolk,Belmont Lake,Babylon,March,190,Brown Trout,8.8
+2021,Suffolk,Belmont Lake,Babylon,March,650,Rainbow Trout,9.2
+2021,Suffolk,Belmont Lake,Babylon,March,100,Brown Trout,13.2
+2021,Allegany,Belmont Rod and Gun Club Pond,West Almond,April,50,Brook Trout,9.4
+2021,Steuben,Bennett Creek,Greenwood,March,570,Brown Trout,8.8
+2021,Steuben,Bennett Creek,Greenwood,March,60,Brown Trout,13.4
+2021,Hamilton,Bennett Lake,Hope,September,1250,Brook Trout,3.9
+2021,Franklin,Benz Pond,Waverly,October,700,Brook Trout,3.9
+2021,Franklin,Bickford Pond,Santa Clara,October,500,Brook Trout,4.0
+2021,Essex,Big Cherry Patch Pond,North Elba,October,1000,Brook Trout,4.0
+2021,Lewis,Big Hill Pond,Diana,October,100,Brook Trout,4.6
+2021,Franklin,Big Hope Pond,Franklin,October,700,Brook Trout,3.9
+2021,Essex,Big Marsh Pond,North Hudson,September,1300,Brook Trout,3.9
+2021,Herkimer,Big Moose Lake,Webb,April,2000,Lake Trout,6.3
+2021,Herkimer,Big Moose Lake,Webb,April,1920,Brook Trout,8.7
+2021,Delaware,Big Pond,Andes,April,220,Rainbow Trout,8.9
+2021,Delaware,Big Pond,Andes,April,230,Brown Trout,8.9
+2021,Delaware,Big Pond,Andes,August,21,Brown Trout,20.4
+2021,Delaware,Big Pond,Andes,August,151,Brown Trout,15.7
+2021,Delaware,Big Pond,Andes,August,292,Brown Trout,20.4
+2021,Delaware,Big Pond,Andes,August,309,Brown Trout,15.7
+2021,Delaware,Big Pond,Andes,November,200,Brown Trout,15.8
+2021,Hamilton,Big Rock Lake,Morehouse,September,2500,Brook Trout,3.7
+2021,Essex,Big Sherman Pond,Minerva,May,160,Brown Trout,8.3
+2021,Essex,Big Sherman Pond,Minerva,October,500,Brook Trout,3.8
+2021,St Lawrence,Big Trout Pond,Piercefield,October,3500,Brook Trout,4.0
+2021,Cattaraugus,Birch Run Pond #1,Allegany,April,100,Brook Trout,9.3
+2021,Clinton,Black Brook,Black Brook Wilmington Jay,April,380,Brook Trout,8.8
+2021,Clinton,Black Brook,Black Brook Wilmington Jay,April,40,Brook Trout,8.8
+2021,Ulster,Black Creek,Esopus,April,40,Brown Trout,13.4
+2021,Ulster,Black Creek,Esopus,April,320,Brown Trout,8.8
+2021,Lewis,Black Creek,New Bremen,May,850,Brook Trout,8.7
+2021,Jefferson,Black Creek,Philadelphia,April,810,Brown Trout,8.8
+2021,Jefferson,Black Creek,Philadelphia,April,90,Brown Trout,13.5
+2021,Allegany,Black Creek,West Almond,April,90,Brown Trout,13.1
+2021,Allegany,Black Creek,West Almond,April,780,Rainbow Trout,9.4
+2021,Jefferson,Black Creek,Wilna Philadelphia,April,2040,Brown Trout,8.8
+2021,Jefferson,Black Creek,Wilna Philadelphia,April,230,Brown Trout,13.5
+2021,Hamilton,Black Creek Lake,Morehouse,September,400,Brook Trout,3.7
+2021,Jefferson,Black Creek West Branch,Wilna,April,480,Brook Trout,8.8
+2021,St Lawrence,Black Lake,Edwardsville,October,1400,Lake Sturgeon,0.4
+2021,St Lawrence,Black Lake,Morristown,April,27000000,Walleye,0.1
+2021,Hamilton,Black Mountain Pond,Indian Lake,October,200,Brook Trout,3.8
+2021,Essex,Black Pond,Minerva,October,400,Brook Trout,3.8
+2021,Essex,Black Pond,North Elba,October,500,Brook Trout,4.0
+2021,St Lawrence,Black Pond,Piercefield,October,600,Brook Trout,4.0
+2021,Franklin,Black Pond,Santa Clara,April,130,Rainbow Trout,9.0
+2021,Franklin,Black Pond,Santa Clara,September,300,Brook Trout,4.0
+2021,Oneida,Black River,Boonville,November,1250,Brown Trout,11.2
+2021,Oneida,Black River,Boonville Forestport,May,1140,Brown Trout,13.5
+2021,Oneida,Black River,Boonville Forestport,May,9290,Rainbow Trout,9.1
+2021,Oneida,Black River,Forestport,May,1200,Brown Trout,8.5
+2021,Oneida,Black River,Forestport,May,200,Brown Trout,13.5
+2021,Oneida,Black River,Forestport,May,130,Brown Trout,13.5
+2021,Oneida,Black River,Forestport,May,1800,Brook Trout,8.7
+2021,Jefferson,Black River,Hounsfield,May,35000,Steelhead,5.2
+2021,Jefferson,Black River,Hounsfield,May,500000,Chinook,3.5
+2021,Essex,Black River,Lewis & Elizabethtown,May,40,Brook Trout,8.8
+2021,Essex,Black River,Lewis & Elizabethtown,May,350,Brook Trout,8.8
+2021,Lewis,Black River,Leyden Lyonsdale,April,1800,Rainbow Trout,9.6
+2021,Lewis,Black River,Leyden Lyonsdale,May,4560,Rainbow Trout,9.6
+2021,Lewis,Black River,Leyden Lyonsdale,May,1550,Rainbow Trout,10.1
+2021,Lewis,Black River,Leyden Lyonsdale,May,980,Brown Trout,13.4
+2021,Lewis,Black River,Leyden Lyonsdale,May,2286,Brook Trout,8.7
+2021,Jefferson,Black River,Watertown,May,580,Brown Trout,13.1
+2021,Jefferson,Black River,Watertown,May,5250,Brown Trout,8.6
+2021,Essex,Black River,Westport,March,850,Brook Trout,8.0
+2021,Essex,Bloody Pond,North Hudson,September,200,Brook Trout,3.9
+2021,Hamilton,Blue Mountain Lake,Indian Lake,April,1300,Landlocked Salmon,6.5
+2021,Hamilton,Blue Mountain Lake,Indian Lake,April,650,Lake Trout,6.4
+2021,Hamilton,Blue Mountain Lake,Indian Lake,June,22500,Brook Trout,2.2
+2021,Hamilton,Blue Mountain Lake,Indian Lake,October,21200,Brook Trout,3.7
+2021,Hamilton,Blue Mountain Lake,Indian Lake,June,25540,Round Whitefish,1.0
+2021,St Lawrence,Blue Pond,Colton,October,300,Brook Trout,4.0
+2021,Hamilton,Bochen Lake,Morehouse,September,550,Brook Trout,3.8
+2021,Putnam,Bog Brook Reservoir,Southeast,April,930,Brown Trout,8.8
+2021,Putnam,Bog Brook Reservoir,Southeast,November,1000,Brown Trout,7.3
+2021,St Lawrence,Bog River,Piercefield,May,600,Brook Trout,8.5
+2021,Lewis,Bonaparte Lake,Diana,April,3160,Brown Trout,8.7
+2021,Franklin,Bone Pond,Santa Clara,October,400,Brook Trout,4.0
+2021,Cattaraugus,Bone Run,South Valley,April,330,Brown Trout,9.5
+2021,Cattaraugus,Bone Run,South Valley,April,40,Brown Trout,13.1
+2021,St Lawrence,Boottree Pond,Piercefield,October,600,Brook Trout,4.0
+2021,Essex,Boquet River,Elizabethtown,April,500,Brown Trout,13.0
+2021,Essex,Boquet River,Elizabethtown,March,300,Brook Trout,8.0
+2021,Essex,Boquet River,Essex,April,800,Brown Trout,13.0
+2021,Essex,Boquet River,Elizabethtown,April,330,Brook Trout,8.8
+2021,Essex,Boquet River,Elizabethtown,April,2960,Brook Trout,8.8
+2021,Essex,Boquet River,Lewis,April,500,Brown Trout,13.0
+2021,Essex,Boquet River,Lewis & Elizabethtown,April,2990,Brown Trout,9.0
+2021,Essex,Boquet River,Lewis & Elizabethtown,May,490,Brown Trout,12.8
+2021,Essex,Boquet River,Lewis & Elizabethtown,April,58146,Landlocked Salmon,6.3
+2021,Essex,Boreas River,Minerva,May,400,Rainbow Trout,13.0
+2021,Essex,Boreas River,Minerva,May,1310,Brown Trout,8.8
+2021,Essex,Boreas River,Minerva,May,150,Brown Trout,13.1
+2021,Essex,Boreas River,Minerva,May,400,Brown Trout,13.0
+2021,Essex,Boreas River,Minerva,May,440,Brown Trout,8.5
+2021,Essex,Boreas River,Minerva,May,60,Brown Trout,13.0
+2021,Essex,Boreas River,North Hudson,April,300,Brook Trout,8.0
+2021,Essex,Boreas River,North Hudson,April,300,Brown Trout,13.0
+2021,Essex,Boreas River,North Hudson,April,400,Rainbow Trout,13.0
+2021,Essex,Boreas River,North Hudson,September,500,Rainbow Trout,15.0
+2021,Essex,Boreas River,North Hudson,September,250,Rainbow Trout,15.0
+2021,Warren,Botheration Pond,Johnsburg,May,280,Brown Trout,8.3
+2021,Chenango,Bowman Lake,Mcdonough,April,1390,Rainbow Trout,8.8
+2021,Chenango,Bowman Lake,Mcdonough,April,340,Brook Trout,8.2
+2021,Franklin,Boy Scout Clear Pond,Duane,May,180,Splake,8.5
+2021,Oneida,Brandy Lake,Forestport,October,500,Brook Trout,3.9
+2021,Warren,Brant Lake,Horicon,June,3070,Brown Trout,8.4
+2021,Warren,Brant Lake,Horicon,June,6000,Brown Trout,9.0
+2021,Warren,Brant Lake,Horicon,May,2870,Rainbow Trout,9.2
+2021,Herkimer,Brewer Lake,Webb,October,400,Brook Trout,3.9
+2021,St Lawrence,Bridgebrook Pond,Piercefield,October,2000,Brook Trout,4.0
+2021,Fulton,Broomstick Lake,Caroga,September,530,Brook Trout,3.8
+2021,Essex,Brother Ponds,Moriah,September,500,Brook Trout,3.9
+2021,Hamilton,Brown Lake,Arietta,September,350,Brook Trout,4.1
+2021,Hamilton,Brown Pond,Indian Lake,October,250,Brook Trout,3.8
+2021,Warren,Browns Pond,Hague,April,100,Brook Trout,9.7
+2021,Herkimer,Bubb Lake,Webb,October,840,Brook Trout,3.8
+2021,Hamilton,Buck Pond,Morehouse,September,400,Brook Trout,3.7
+2021,Herkimer,Buck Pond,Webb,October,300,Brook Trout,4.0
+2021,Herkimer,Buck Pond,Webb,September,500,Brook Trout,3.8
+2021,Hamilton,Buckhorn Pond,Wells,September,600,Brook Trout,3.9
+2021,Wyoming,Buffalo Creek,Java,March,50,Brown Trout,13.3
+2021,Wyoming,Buffalo Creek,Java,March,430,Rainbow Trout,9.2
+2021,Erie,Buffalo Creek,West Seneca,March,5000,Steelhead,5.4
+2021,Erie,Buffalo River,West Seneca,April,5000,Steelhead,6.4
+2021,Hamilton,Bug Lake,Inlet,September,3200,Brook Trout,3.8
+2021,Orange,Bull Pond,Highlands,April,700,Brook Trout,8.9
+2021,Orange,Bull Pond,Highlands,April,740,Brown Trout,8.7
+2021,Hamilton,Bullhead Pond,Indian Lake,May,260,Rainbow Trout,8.5
+2021,Hamilton,Bullhead Pond,Indian Lake,October,650,Brook Trout,3.8
+2021,Washington,Bumps Pond,Dresden,September,180,Brook Trout,3.9
+2021,Essex,Burge Pond,Schroon,September,300,Brook Trout,3.9
+2021,Jefferson,Butterfield Lake,Theresa Alexandria,April,3020000,Walleye,0.3
+2021,Warren,Buttermilk Pond,Horicon,September,600,Brook Trout,3.9
+2021,Onondaga,Butternut Creek,,April,150,Brown Trout,17.8
+2021,Onondaga,Butternut Creek,,April,600,Brown Trout,12.0
+2021,Onondaga,Butternut Creek,,April,900,Brown Trout,9.0
+2021,Onondaga,Butternut Creek,,April,600,Brook Trout,9.0
+2021,Onondaga,Butternut Creek,,April,500,Brown Trout,12.0
+2021,Onondaga,Butternut Creek,,April,600,Brown Trout,9.0
+2021,Onondaga,Butternut Creek,,April,900,Brown Trout,12.0
+2021,Onondaga,Butternut Creek,,March,200,Brown Trout,0.4
+2021,Onondaga,Butternut Creek,,March,450,Brook Trout,9.0
+2021,Onondaga,Butternut Creek,,March,400,Brown Trout,12.0
+2021,Onondaga,Butternut Creek,,March,500,Brown Trout,12.0
+2021,Onondaga,Butternut Creek,,March,1500,Brown Trout,9.0
+2021,Onondaga,Butternut Creek,,March,1400,Brown Trout,9.0
+2021,Onondaga,Butternut Creek,,March,600,Brook Trout,9.2
+2021,Onondaga,Butternut Creek,,March,200,Brown Trout,17.8
+2021,Herkimer,Cage Lake,Webb,October,1000,Brook Trout,4.0
+2021,Allegany,California Hollow Brook,Bolivar,March,50,Brown Trout,13.3
+2021,Allegany,California Hollow Brook,Bolivar,March,440,Brown Trout,9.4
+2021,Sullivan,Callicoon Creek,Delaware,April,620,Brown Trout,8.9
+2021,Sullivan,Callicoon Creek,Delaware,April,70,Brown Trout,13.7
+2021,Sullivan,Callicoon Creek East Branch,Callicoon,April,40,Brown Trout,13.7
+2021,Sullivan,Callicoon Creek East Branch,Callicoon,April,370,Brown Trout,8.9
+2021,Sullivan,Callicoon Creek East Branch,Delaware,April,130,Brown Trout,13.7
+2021,Sullivan,Callicoon Creek East Branch,Delaware,April,1210,Brown Trout,8.9
+2021,Sullivan,Callicoon Creek East Branch,Delaware,April,80,Brown Trout,13.7
+2021,Sullivan,Callicoon Creek East Branch,Delaware,April,710,Brown Trout,8.9
+2021,Sullivan,Callicoon Creek East Branch,Delaware,April,10,Brown Trout,13.7
+2021,Sullivan,Callicoon Creek East Branch,Delaware,April,110,Brown Trout,8.9
+2021,Sullivan,Callicoon Creek North Branch,Callicoon,April,50,Brown Trout,13.7
+2021,Sullivan,Callicoon Creek North Branch,Callicoon,April,50,Brown Trout,13.7
+2021,Sullivan,Callicoon Creek North Branch,Callicoon,April,430,Brown Trout,8.9
+2021,Sullivan,Callicoon Creek North Branch,Callicoon,April,430,Brown Trout,8.9
+2021,Sullivan,Callicoon Creek North Branch,Callicoon,May,50,Brown Trout,13.1
+2021,Sullivan,Callicoon Creek North Branch,Callicoon,May,430,Brown Trout,8.9
+2021,Sullivan,Callicoon Creek North Branch,Callicoon,May,430,Brown Trout,8.9
+2021,Sullivan,Callicoon Creek North Branch,Callicoon,May,100,Brown Trout,13.1
+2021,Ontario,Camp Cutler Pond,South Bristol,April,90,Rainbow Trout,8.9
+2021,Suffolk,Canaan Lake,Brookhaven,October,256,Brown Trout,12.2
+2021,Allegany,Canacadea Creek,Almond Alfred,April,870,Rainbow Trout,9.2
+2021,Allegany,Canacadea Creek,Almond Alfred,April,100,Brown Trout,13.1
+2021,Oneida,Canada Creek,Rome,April,470,Brown Trout,9.1
+2021,Fulton,Canada Lake,Caroga,April,1830,Rainbow Trout,8.4
+2021,Otsego,Canadarago Lake,Exeter,June,40860,Walleye,1.5
+2021,Otsego,Canadarago Lake,Exeter,June,30380,Walleye,1.8
+2021,Chautauqua,Canadaway Creek,Arkwright,April,40,Brown Trout,13.1
+2021,Chautauqua,Canadaway Creek,Arkwright,April,350,Rainbow Trout,9.6
+2021,Chautauqua,Canadaway Creek,Dunkirk,March,10000,Steelhead,5.4
+2021,Chautauqua,Canadaway Creek,Dunkirk,October,10000,Rainbow Trout,6.8
+2021,Ontario,Canadice Lake,Canadice,April,4650,Brown Trout,7.8
+2021,Montgomery,Canajoharie Creek,Canajoharie,April,90,Brown Trout,13.3
+2021,Montgomery,Canajoharie Creek,Canajoharie,April,800,Brown Trout,8.9
+2021,Ontario,Canandaigua Lake,Canandaigua (T),April,7440,Brown Trout,7.6
+2021,Ontario,Canandaigua Lake,Canandaigua (T),April,11560,Lake Trout,8.7
+2021,Ontario,Canandaigua Lake,Canandaigua (T),June,18000,Brown Trout,2.3
+2021,Ontario,Canandaigua Lake,Canandaigua (T),June,2500,Brown Trout,9.5
+2021,Ontario,Canandaigua Lake,Canandaigua (T),November,24100,Lake Trout,5.9
+2021,Ontario,Canandaigua Outlet,Phelps / Manchester,March,410,Brown Trout,12.6
+2021,Ontario,Canandaigua Outlet,Phelps / Manchester,March,3710,Brown Trout,8.2
+2021,Hamilton,Canary Pond,Benson,September,250,Brook Trout,3.8
+2021,Allegany,Canaseraga Creek,Burns,April,120,Brown Trout,13.1
+2021,Allegany,Canaseraga Creek,Burns,April,1090,Rainbow Trout,9.4
+2021,Steuben,Canaseraga Creek,Dansville,March,200,Brown Trout,13.4
+2021,Steuben,Canaseraga Creek,Dansville,March,1760,Brown Trout,8.8
+2021,Allegany,Caneadea Creek,Rushford,April,590,Rainbow Trout,9.2
+2021,Allegany,Caneadea Creek,Rushford,April,70,Brown Trout,13.1
+2021,Steuben,Canisteo River,Hornellsville,March,790,Brown Trout,8.8
+2021,Steuben,Canisteo River,Hornellsville,March,90,Brown Trout,13.4
+2021,Delaware,Cannonsville Reservoir,Deposit and Tompkins,May,6980,Brown Trout,9.0
+2021,Delaware,Cannonsville Reservoir,Deposit and Tompkins,November,7500,Brown Trout,7.3
+2021,Seneca,Canoga Creek,Fayette,April,300,Brook Trout,8.4
+2021,Seneca,Canoga Creek,Fayette,June,1000,Brook Trout,4.2
+2021,Suffolk,Carlls River,Babylon,March,490,Brown Trout,8.8
+2021,Suffolk,Carlls River,Babylon,March,330,Rainbow Trout,9.2
+2021,Suffolk,Carlls River,Babylon,March,40,Brown Trout,13.2
+2021,Suffolk,Carlls River,Babylon,March,50,Brown Trout,13.2
+2021,Suffolk,Carmans River,Brookhaven,April,100,Brown Trout,13.5
+2021,Suffolk,Carmans River,Brookhaven,April,400,Rainbow Trout,8.9
+2021,Suffolk,Carmans River,Brookhaven,April,40,Brown Trout,13.5
+2021,Suffolk,Carmans River,Brookhaven,April,350,Rainbow Trout,9.1
+2021,Suffolk,Carmans River,Brookhaven,April,350,Brown Trout,8.7
+2021,Suffolk,Carmans River,Brookhaven,April,350,Rainbow Trout,8.9
+2021,Suffolk,Carmans River,Brookhaven,April,150,Brown Trout,13.3
+2021,Suffolk,Carmans River,Brookhaven,April,40,Brown Trout,13.7
+2021,Suffolk,Carmans River,Brookhaven,April,40,Brown Trout,13.3
+2021,Suffolk,Carmans River,Brookhaven,March,350,Brown Trout,8.8
+2021,Suffolk,Carmans River,Brookhaven,March,40,Brown Trout,13.2
+2021,Suffolk,Carmans River,Brookhaven,October,200,Brown Trout,12.2
+2021,Onondaga,Carpenter's Brook,Elbridge,March,450,Brown Trout,9.0
+2021,Onondaga,Carpenter's Brook,Elbridge,March,250,Brown Trout,12.0
+2021,Onondaga,Carpenter's Brook,Elbridge,April,300,Brook Trout,9.2
+2021,Onondaga,Carpenter's Brook,Elbridge,April,100,Brown Trout,12.0
+2021,Onondaga,Carpenter's Brook,Elbridge,April,600,Brown Trout,9.0
+2021,Onondaga,Carpenter's Brook,Elbridge,April,200,Brook Trout,9.0
+2021,Hamilton,Carry Pond,Lake Pleasant,September,200,Brook Trout,4.0
+2021,Essex,Cascade Brook,Keene,May,300,Brook Trout,8.0
+2021,Hamilton,Cascade Pond,Indian Lake,September,2300,Brook Trout,3.8
+2021,Cattaraugus,Case Lake,Franklinville,April,600,Brown Trout,13.7
+2021,Cattaraugus,Case Lake,Franklinville,April,1670,Brown Trout,9.2
+2021,Cattaraugus,Case Lake,Franklinville,March,1570,Rainbow Trout,9.2
+2021,Cattaraugus,Case Lake,Franklinville,October,140,Brown Trout,24.0
+2021,Cattaraugus,Case Lake,Franklinville,October,230,Brook Trout,19.8
+2021,Cattaraugus,Case Lake,Franklinville,October,120,Rainbow Trout,22.8
+2021,Cattaraugus,Case Lake,Franklinville,October,150,Rainbow Trout,21.8
+2021,Chautauqua,Cassadaga Creek,Stockton,March,70,Brown Trout,13.3
+2021,Chautauqua,Cassadaga Creek,Stockton,March,630,Rainbow Trout,9.2
+2021,Chautauqua,Cassadaga Creek,Stockton/Ellicot,October,500,Muskellunge,8.7
+2021,Cortland,Casterline Pond,Homer,April,250,Brown Trout,13.7
+2021,Cortland,Casterline Pond,Homer,April,780,Rainbow Trout,8.6
+2021,Hamilton,Castor Pond,Morehouse,September,450,Brook Trout,3.8
+2021,Hamilton,Cat Lake,Arietta,September,600,Brook Trout,3.8
+2021,St Lawrence,Cat Mountain Pond,Clifton,October,400,Brook Trout,4.0
+2021,Tioga,Catatonk Creek,Candor,April,890,Brown Trout,8.8
+2021,Tioga,Catatonk Creek,Candor,April,100,Brown Trout,14.0
+2021,Schuyler,Catharine Creek,Montour,April,10000,Rainbow Trout,6.3
+2021,Greene,Catskill Creek,Cairo,April,1580,Brown Trout,8.9
+2021,Greene,Catskill Creek,Cairo,April,180,Brown Trout,13.3
+2021,Greene,Catskill Creek,Cairo,May,180,Brown Trout,13.7
+2021,Greene,Catskill Creek,Cairo,May,1580,Brown Trout,8.9
+2021,Greene,Catskill Creek,Cairo,May,1580,Brown Trout,9.0
+2021,Greene,Catskill Creek,Cairo,May,1580,Brown Trout,9.0
+2021,Greene,Catskill Creek,Cairo,May,180,Brown Trout,13.7
+2021,Greene,Catskill Creek,Cairo,May,280,Brown Trout,13.6
+2021,Albany,Catskill Creek,Rensselaerville,April,20,Brown Trout,13.3
+2021,Albany,Catskill Creek,Rensselaerville,April,180,Brown Trout,8.9
+2021,Albany,Catskill Creek,Rensselaerville,May,70,Brown Trout,13.6
+2021,Albany,Catskill Creek,Rensselaerville,May,180,Brown Trout,8.9
+2021,Albany,Catskill Creek,Rensselaerville,May,20,Brown Trout,13.7
+2021,Albany,Catskill Creek,Rensselaerville,May,180,Brown Trout,9.0
+2021,Albany,Catskill Creek,Rensselaerville,May,20,Brown Trout,13.7
+2021,Albany,Catskill Creek,Rensselaerville,May,180,Brown Trout,9.0
+2021,Chautauqua,Cattaraugus Creek,Hanover,June,10000,Rainbow Trout,9.4
+2021,Chautauqua,Cattaraugus Creek,Hanover,June,2000,Rainbow Trout,9.4
+2021,Chautauqua,Cattaraugus Creek,Hanover,March,57569,Steelhead,5.5
+2021,Chautauqua,Cattaraugus Creek,Hanover,October,15000,Rainbow Trout,6.9
+2021,Wyoming,Cattaraugus Creek,Java,April,2180,Brown Trout,9.4
+2021,Wyoming,Cattaraugus Creek,Java,April,240,Brown Trout,13.1
+2021,Wyoming,Cattaraugus Creek,Java,April,2180,Brown Trout,9.2
+2021,Wyoming,Cattaraugus Creek,Java,April,240,Brown Trout,13.1
+2021,Wyoming,Cattaraugus Creek,Java,March,2180,Brown Trout,9.2
+2021,Wyoming,Cattaraugus Creek,Java,March,240,Brown Trout,13.3
+2021,Wyoming,Cattaraugus Creek,Java,May,2180,Brown Trout,10.0
+2021,Wyoming,Cattaraugus Creek,Java,May,240,Brown Trout,13.8
+2021,Wyoming,Cattaraugus Creek,Java,October,620,Brown Trout,10.0
+2021,Wyoming,Cattaraugus Creek,Java,October,1380,Brown Trout,12.9
+2021,Erie,Cattaraugus Creek,Sardinia,March,210,Brown Trout,13.1
+2021,Erie,Cattaraugus Creek,Sardinia,March,1850,Brown Trout,9.3
+2021,Cattaraugus,Cattaraugus Creek S Br,East Otto,April,80,Brown Trout,13.1
+2021,Cattaraugus,Cattaraugus Creek S Br,East Otto,April,680,Rainbow Trout,9.2
+2021,Fulton,Cayadutta Creek,Johnstown,April,400,Brown Trout,9.0
+2021,Fulton,Cayadutta Creek,Johnstown,April,40,Brown Trout,13.8
+2021,Fulton,Cayadutta Creek,Johnstown(t),April,70,Brown Trout,13.3
+2021,Fulton,Cayadutta Creek,Johnstown(t),April,640,Brown Trout,8.8
+2021,Fulton,Cayadutta Creek,Johnstown(t),April,640,Brown Trout,8.7
+2021,Fulton,Cayadutta Creek,Johnstown(t),April,70,Brown Trout,13.5
+2021,Fulton,Cayadutta Creek,Johnstown(t),June,640,Brown Trout,8.4
+2021,Fulton,Cayadutta Creek,Johnstown(t),June,70,Brown Trout,13.4
+2021,Fulton,Cayadutta Creek,Johnstown(t),May,90,Brown Trout,13.1
+2021,Fulton,Cayadutta Creek,Johnstown(t),May,70,Brown Trout,13.1
+2021,Fulton,Cayadutta Creek,Johnstown(t),May,640,Brown Trout,8.6
+2021,Erie,Cayuga Creek,Cheektowaga,March,5000,Steelhead,5.4
+2021,Erie,Cayuga Creek,Lancaster,March,1400,Rainbow Trout,8.9
+2021,Erie,Cayuga Creek,Lancaster,March,160,Brown Trout,14.1
+2021,Tompkins,Cayuga Inlet,Ithaca,May,12500,Rainbow Trout,6.5
+2021,Tompkins,Cayuga Inlet,Ithaca (C),March,25,Rainbow Trout,17.1
+2021,Tompkins,Cayuga Lake,Ithaca,April,15000,Landlocked Salmon,6.5
+2021,Tompkins,Cayuga Lake,Ithaca,April,13000,Landlocked Salmon,6.5
+2021,Tompkins,Cayuga Lake,Ithaca,April,8370,Brown Trout,7.8
+2021,Tompkins,Cayuga Lake,Ithaca,April,8370,Brown Trout,8.0
+2021,Tompkins,Cayuga Lake,Ithaca,November,70000,Lake Trout,6.2
+2021,Cayuga,Cayuga Lake,Ledyard,April,15000,Landlocked Salmon,6.5
+2021,Cayuga,Cayuga Lake,Ledyard,April,9300,Brown Trout,7.7
+2021,Seneca,Cayuga Lake,,October,2500,Lake Sturgeon,7.0
+2021,Tioga,Cayuta Creek,Barton,March,180,Brown Trout,13.1
+2021,Tioga,Cayuta Creek,Barton,March,1630,Brown Trout,8.3
+2021,Tioga,Cayuta Creek,Barton,November,5500,Brown Trout,6.8
+2021,Schuyler,Cayuta Creek,Catherine,April,1540,Brown Trout,8.3
+2021,Schuyler,Cayuta Creek,Catherine,April,170,Brown Trout,12.6
+2021,Schuyler,Cayuta Creek,Catherine,March,170,Brown Trout,13.1
+2021,Schuyler,Cayuta Creek,Catherine,March,1540,Brown Trout,8.3
+2021,Schuyler,Cayuta Creek,Catherine,May,170,Brown Trout,13.1
+2021,Schuyler,Cayuta Creek,Catherine,May,1540,Brown Trout,8.4
+2021,Schuyler,Cayuta Creek,Catherine,May,170,Brown Trout,13.1
+2021,Schuyler,Cayuta Creek,Catherine,May,1540,Brown Trout,8.4
+2021,Schuyler,Cayuta Creek,Catherine,November,1600,Brown Trout,13.2
+2021,Chemung,Cayuta Creek,Van Etten,April,2610,Brown Trout,8.3
+2021,Chemung,Cayuta Creek,Van Etten,April,290,Brown Trout,12.6
+2021,Chemung,Cayuta Creek,Van Etten,March,290,Brown Trout,13.1
+2021,Chemung,Cayuta Creek,Van Etten,March,2610,Brown Trout,8.3
+2021,Chemung,Cayuta Creek,Van Etten,May,290,Brown Trout,13.1
+2021,Chemung,Cayuta Creek,Van Etten,May,2610,Brown Trout,8.4
+2021,Chemung,Cayuta Creek,Van Etten,May,2610,Brown Trout,8.4
+2021,Chemung,Cayuta Creek,Van Etten,May,290,Brown Trout,13.1
+2021,Chemung,Cayuta Creek,Van Etten,November,1600,Brown Trout,13.2
+2021,Chemung,Cayuta Creek,Van Etten,November,11820,Brown Trout,6.8
+2021,Schuyler,Cayuta Lake,Catharine,June,2580,Walleye,1.3
+2021,Schuyler,Cayuta Lake,Catharine,June,7420,Walleye,1.3
+2021,Erie,Cazenovia Creek-East Branch,Aurora,March,1990,Brown Trout,9.1
+2021,Erie,Cazenovia Creek-East Branch,Aurora,March,220,Brown Trout,13.1
+2021,Hamilton,Cedar Lake,Arietta,October,7500,Brook Trout,4.0
+2021,Hamilton,Cedar River,Indian Lake,April,850,Brown Trout,8.5
+2021,Hamilton,Cedar River,Indian Lake,April,90,Brown Trout,13.5
+2021,Hamilton,Cedar River Flow,Indian Lake,May,930,Brown Trout,8.3
+2021,Essex,Center Pond,Minerva,October,700,Brook Trout,3.8
+2021,Essex,Chapel Pond,Keene,April,100,Rainbow Trout,13.0
+2021,Essex,Chapel Pond,Keene,September,500,Brook Trout,4.0
+2021,Delaware,Charlotte Creek,Davenport,April,3270,Brown Trout,8.7
+2021,Delaware,Charlotte Creek,Davenport,April,360,Brown Trout,13.1
+2021,Delaware,Charlotte Creek,Davenport,April,490,Brown Trout,8.7
+2021,Delaware,Charlotte Creek,Davenport,April,60,Brown Trout,13.1
+2021,Franklin,Chateaugay River,Chateaugay,April,360,Rainbow Trout,9.0
+2021,Franklin,Chateaugay River,Chateaugay,April,600,Rainbow Trout,9.0
+2021,Franklin,Chateaugay River,Chateaugay,June,70,Rainbow Trout,10.1
+2021,Franklin,Chateaugay River,Chateaugay,June,40,Rainbow Trout,10.1
+2021,Franklin,Chateaugay River,Chateaugay,June,40,Rainbow Trout,10.1
+2021,Franklin,Chateaugay River,Chateaugay,June,70,Rainbow Trout,10.1
+2021,Franklin,Chateaugay River,Chateaugay,June,600,Brown Trout,9.5
+2021,Franklin,Chateaugay River,Chateaugay,June,360,Brown Trout,9.5
+2021,Franklin,Chateaugay River,Chateaugay,May,360,Brown Trout,9.0
+2021,Franklin,Chateaugay River,Chateaugay,May,600,Brown Trout,9.0
+2021,Franklin,Chateaugay River,Chateaugay,May,600,Rainbow Trout,10.1
+2021,Franklin,Chateaugay River,Chateaugay,May,60,Brown Trout,12.8
+2021,Franklin,Chateaugay River,Chateaugay,May,60,Brown Trout,12.8
+2021,Franklin,Chateaugay River,Chateaugay,May,360,Rainbow Trout,10.1
+2021,Franklin,Chateaugay River,Chateaugay,May,105,Brown Trout,12.8
+2021,Franklin,Chateaugay River,Chateaugay,May,135,Brown Trout,12.8
+2021,Franklin,Chateaugay river,Chateaugay,November,1250,Brown Trout,6.7
+2021,Franklin,Chateaugay River,Chateaugay,November,1990,Rainbow Trout,6.2
+2021,Franklin,Chateaugay River,Chateaugay,November,665,Rainbow Trout,6.2
+2021,Franklin,Chateaugay River,Chateaugay-Bellmont,April,2120,Brown Trout,8.5
+2021,Franklin,Chateaugay River,Chateaugay-Bellmont,April,240,Brown Trout,13.5
+2021,Chautauqua,Chautauqua Creek,Westfield,March,20000,Steelhead,5.4
+2021,Chautauqua,Chautauqua Creek,Westfield,October,10000,Rainbow Trout,6.8
+2021,Chautauqua,Chautauqua Lake (N),Chautauqua,October,4070,Muskellunge,8.9
+2021,Chautauqua,Chautauqua Lake (N),Ellery,October,2430,Muskellunge,8.9
+2021,Chautauqua,Chautauqua Lake (S),Busti,October,3560,Muskellunge,9.0
+2021,Chautauqua,Chautauqua Lake (S),Ellery,October,1020,Muskellunge,8.8
+2021,Chautauqua,Chautauqua Lake (S),N Harmony,October,1920,Muskellunge,8.9
+2021,Clinton,Chazy Lake,Dannemora,April,6700,Rainbow Trout,8.4
+2021,Clinton,Chazy lake,Dannemora,October,4700,Lake Trout,5.1
+2021,Broome,Chenango Lake,Fenton,April,2610,Rainbow Trout,8.9
+2021,Broome,Chenango Lake,Fenton,March,4440,Rainbow Trout,8.4
+2021,Broome,Chenango Lake,Fenton,May,2610,Rainbow Trout,10.0
+2021,Madison,Chenango River,Eaton,April,2540,Brown Trout,8.8
+2021,Madison,Chenango River,Eaton,April,280,Brown Trout,13.0
+2021,Essex,Cheney Pond,Minerva,May,650,Brown Trout,8.3
+2021,Essex,Cheney Pond,Minerva,September,2300,Brook Trout,3.9
+2021,Sullivan,Chestnut Creek,Neversink,April,460,Brown Trout,8.8
+2021,Sullivan,Chestnut Creek,Neversink,April,50,Brown Trout,13.5
+2021,Madison,Chittenango Creek,Cazenovia,April,170,Brown Trout,13.7
+2021,Madison,Chittenango Creek,Cazenovia,April,1520,Brown Trout,9.3
+2021,Madison,Chittenango Creek,Fenner,April,220,Brown Trout,12.6
+2021,Madison,Chittenango Creek,Fenner,April,2010,Brown Trout,8.1
+2021,Madison,Chittenango Creek,Fenner,April,220,Brown Trout,12.6
+2021,Madison,Chittenango Creek,Fenner,April,2010,Brown Trout,8.2
+2021,Madison,Chittenango Creek,Fenner,June,115,Brown Trout,13.1
+2021,Madison,Chittenango Creek,Fenner,May,2010,Brown Trout,8.4
+2021,Madison,Chittenango Creek,Fenner,May,220,Brown Trout,13.1
+2021,Madison,Chittenango Creek,Fenner,May,2010,Brown Trout,8.4
+2021,Madison,Chittenango Creek,Fenner,May,220,Brown Trout,13.1
+2021,Madison,Chittenango Creek,Fenner,November,14400,Brown Trout,6.6
+2021,Madison,Chittenango Creek,Sullivan,April,400,Brown Trout,8.1
+2021,Madison,Chittenango Creek,Sullivan,April,40,Brown Trout,12.6
+2021,Madison,Chittenango Creek,Sullivan,April,400,Brown Trout,8.2
+2021,Madison,Chittenango Creek,Sullivan,April,290,Brown Trout,8.1
+2021,Madison,Chittenango Creek,Sullivan,April,30,Brown Trout,12.6
+2021,Madison,Chittenango Creek,Sullivan,April,40,Brown Trout,12.6
+2021,Madison,Chittenango Creek,Sullivan,April,290,Brown Trout,8.2
+2021,Madison,Chittenango Creek,Sullivan,April,30,Brown Trout,12.6
+2021,Madison,Chittenango Creek,Sullivan,June,115,Brown Trout,13.1
+2021,Madison,Chittenango Creek,Sullivan,June,250,Brown Trout,13.1
+2021,Madison,Chittenango Creek,Sullivan,June,115,Brown Trout,13.1
+2021,Madison,Chittenango Creek,Sullivan,May,290,Brown Trout,8.4
+2021,Madison,Chittenango Creek,Sullivan,May,40,Brown Trout,13.1
+2021,Madison,Chittenango Creek,Sullivan,May,400,Brown Trout,8.4
+2021,Madison,Chittenango Creek,Sullivan,May,30,Brown Trout,13.1
+2021,Madison,Chittenango Creek,Sullivan,May,290,Brown Trout,8.4
+2021,Madison,Chittenango Creek,Sullivan,May,30,Brown Trout,13.1
+2021,Madison,Chittenango Creek,Sullivan,May,400,Brown Trout,8.4
+2021,Madison,Chittenango Creek,Sullivan,May,40,Brown Trout,13.1
+2021,Madison,Chittenango Creek,Sullivan,November,3120,Brown Trout,6.6
+2021,Madison,Chittenango Creek,Sullivan,November,2550,Brown Trout,6.6
+2021,Madison,Chittenango Creek,Sullivan,November,400,Brown Trout,12.3
+2021,Hamilton,Christian Lake,Arietta,September,300,Brook Trout,3.8
+2021,Franklin,Chub Pond,Franklin,May,140,Brown Trout,8.0
+2021,Hamilton,Chub Pond,Indian Lake,September,150,Brook Trout,3.8
+2021,Essex,Chubb River,North Elba,April,500,Brown Trout,8.5
+2021,Essex,Chubb River,North Elba,April,300,Brook Trout,8.0
+2021,Essex,Chubb River,North Elba,April,60,Brown Trout,13.5
+2021,Essex,Chubb River,North Elba,May,60,Brook Trout,9.0
+2021,Essex,Chubb River,North Elba,May,570,Brook Trout,9.0
+2021,St Lawrence,Church Pond,Colton,October,400,Brook Trout,4.0
+2021,Oneida,Cincinnati Creek,Trenton,April,730,Brown Trout,8.6
+2021,Oneida,Cincinnati Creek,Trenton,April,90,Brown Trout,13.7
+2021,Oneida,Cincinnati Creek,Trenton,April,820,Brown Trout,8.6
+2021,Oneida,Cincinnati Creek,Trenton,April,80,Brown Trout,13.7
+2021,Allegany,Clarksville Town Pond,Clarksville,March,170,Rainbow Trout,9.0
+2021,Chautauqua,Clay Pond,Poland,March,140,Brook Trout,9.4
+2021,Chautauqua,Clay Pond,Poland,March,100,Brown Trout,13.3
+2021,Warren,Clear Pond,Chester/Minerva,May,230,Rainbow Trout,8.5
+2021,Lewis,Clear Pond,Croghan,October,800,Brook Trout,3.8
+2021,Hamilton,Clear Pond,Indian Lake,October,600,Brook Trout,4.7
+2021,Hamilton,Clear Pond,Long Lake,May,610,Rainbow Trout,9.0
+2021,Essex,Clear Pond,Newcomb,May,350,Rainbow Trout,8.5
+2021,St Lawrence,Clear Pond,Parishville,October,1000,Brook Trout,3.9
+2021,Essex,Clear Pond,Ticonderoga,May,651,Round Whitefish,1.0
+2021,Essex,Clear Pond,Ticonderoga,May,350,Rainbow Trout,8.3
+2021,Essex,Clear Pond,Ticonderoga,May,370,Brown Trout,8.3
+2021,Essex,Clements Pond,Jay,October,150,Brook Trout,4.0
+2021,Warren,Clendon Brook,Queensbury,April,100,Brook Trout,9.6
+2021,Lewis,Cleveland Lake,Watson,October,500,Brook Trout,3.8
+2021,Steuben,Cohocton River,Avoca,April,360,Brown Trout,13.0
+2021,Steuben,Cohocton River,Avoca,April,3270,Rainbow Trout,8.7
+2021,Steuben,Cohocton River,Avoca,April,3270,Rainbow Trout,8.7
+2021,Steuben,Cohocton River,Avoca,April,270,Brown Trout,14.0
+2021,Steuben,Cohocton River,Avoca,April,90,Brown Trout,13.7
+2021,Steuben,Cohocton River,Avoca,June,1520,Brown Trout,13.1
+2021,Steuben,Cohocton River,Avoca,March,3270,Rainbow Trout,8.8
+2021,Steuben,Cohocton River,Avoca,March,390,Brown Trout,13.4
+2021,Steuben,Cohocton River,Avoca,May,330,Brown Trout,13.5
+2021,Steuben,Cohocton River,Avoca,May,3270,Rainbow Trout,9.2
+2021,Steuben,Cohocton River,Avoca,October,1070,Brown Trout,10.0
+2021,Steuben,Cold Brook,Bath Urbana,May,2500,Rainbow Trout,6.2
+2021,Essex,Cold Brook,Willsboro,May,300,Brook Trout,8.0
+2021,Essex,Coldspring Pond,North Elba,May,90,Brown Trout,8.0
+2021,Essex,Coldspring Pond,North Elba,October,150,Brook Trout,4.0
+2021,Greene,Colgate Lake,Jewett,April,650,Brown Trout,8.8
+2021,Greene,Colgate Lake,Jewett,April,100,Brown Trout,13.5
+2021,Livingston,Conesus Lake,Livonia Geneseo Groveland Conesus,June,32500,Walleye,1.2
+2021,Livingston,Conesus Lake,Livonia Geneseo Groveland Conesus,June,5240,Walleye,1.4
+2021,Livingston,Conesus Lake,Livonia Geneseo Groveland Conesus,June,10000,Walleye,1.3
+2021,Livingston,Conesus Lake,Livonia Geneseo Groveland Conesus,June,17900,Walleye,1.5
+2021,Livingston,Conesus Lake,Livonia Geneseo Groveland Conesus,September,9500,Tiger Muskellunge,10.4
+2021,Chautauqua,Conewango Ck W Br,Villenova,April,30,Brown Trout,13.1
+2021,Chautauqua,Conewango Ck W Br,Villenova,April,290,Rainbow Trout,9.4
+2021,Chautauqua,Conewango Creek,Carrol/Kiatone,October,1050,Muskellunge,8.7
+2021,Cattaraugus,Conewango Creek,Conewango,October,200,Muskellunge,8.7
+2021,Franklin,Conley Line Pond,Harrietstown,October,80,Brook Trout,4.0
+2021,Essex,Connery Pond,North Elba,May,1300,Brown Trout,8.0
+2021,Essex,Connery Pond,North Elba,May,170,Splake,8.5
+2021,Suffolk,Connetquot River,Islip,May,200,Rainbow Trout,8.9
+2021,Suffolk,Connetquot River,Islip,May,200,Brown Trout,8.8
+2021,Cattaraugus,Connoisarauley Creek,Ashford,April,30,Brown Trout,13.1
+2021,Cattaraugus,Connoisarauley Creek,Ashford,April,280,Rainbow Trout,9.2
+2021,Saratoga,Corinth Reservoir Ponds,Corinth,March,260,Rainbow Trout,8.4
+2021,Saratoga,Corinth Reservoir Ponds,Corinth,May,90,Rainbow Trout,8.9
+2021,Essex,Cotters Pond,Schroon,September,400,Brook Trout,3.9
+2021,Essex,County Fair,Westport,August,6,Rainbow Trout,18.0
+2021,Essex,County Fair,Westport,August,11,Brown Trout,14.0
+2021,Essex,County Fair,Westport,August,11,Rainbow Trout,14.0
+2021,Cattaraugus,County Pond A,Randolph,March,170,Rainbow Trout,9.2
+2021,Cattaraugus,County Pond B,Randolph,March,100,Brook Trout,9.2
+2021,Essex,Courtney Pond,North Hudson,April,150,Rainbow Trout,13.0
+2021,Essex,Courtney Pond,North Hudson,May,150,Brown Trout,12.8
+2021,Essex,Courtney Pond,North Hudson,September,650,Brook Trout,3.9
+2021,Madison,Cowaselon Creek,Oneida,April,830,Rainbow Trout,8.8
+2021,Madison,Cowaselon Creek,Oneida,April,90,Brown Trout,14.0
+2021,St Lawrence,Cowhorn Pond,Clifton,October,500,Brook Trout,4.0
+2021,Essex,Crab Pond,Schroon,May,420,Brown Trout,8.3
+2021,Essex,Crab Pond,Schroon,September,500,Brook Trout,3.9
+2021,St Lawrence,Cranberry Lake,Clifton,May,3360,Brook Trout,8.5
+2021,Hamilton,Cranberry Pond,Indian Lake,September,500,Brook Trout,4.0
+2021,Warren,Crandall Park 1,Glens Falls,March,50,Rainbow Trout,14.9
+2021,Warren,Crandall Park 1,Glens Falls,March,200,Rainbow Trout,9.5
+2021,Warren,Crandall Park 2,Glens Falls,April,200,Rainbow Trout,8.5
+2021,Warren,Crandall Park 2,Glens Falls,April,50,Rainbow Trout,14.9
+2021,Warren,Crandall Park Pond,Glens Falls,April,50,Rainbow Trout,8.8
+2021,Cattaraugus,Crandall Pond,Ashford,April,140,Brook Trout,9.3
+2021,Warren,Crane Mountain Pond,Johnsburg,September,300,Brook Trout,3.9
+2021,Essex,Crane Pond,Schroon,May,1310,Rainbow Trout,8.3
+2021,Onondaga,Cross Lake,Lysander,June,43500,Walleye,1.4
+2021,Westchester,Cross River Reservoir,Bedford,March,6980,Brown Trout,8.8
+2021,Westchester,Cross River Reservoir,Bedford,November,7500,Brown Trout,7.3
+2021,Westchester,Cross River Reservoir Outlet,Bedford,March,410,Rainbow Trout,9.2
+2021,Westchester,Cross River Reservoir Outlet,Bedford,March,50,Rainbow Trout,9.2
+2021,Hamilton,Crotched Pond,Indian Lake,September,2800,Brook Trout,4.0
+2021,Putnam,Croton Falls Reservoir,Carmel Southeast,November,2500,Brown Trout,7.3
+2021,Putnam,Croton Falls Reservoir,Carmel Southeast,April,2330,Brown Trout,8.9
+2021,Westchester,Croton River,Cortlandt,March,990,Rainbow Trout,9.2
+2021,Westchester,Croton River,Cortlandt,March,110,Rainbow Trout,9.2
+2021,Putnam,Croton River East Branch,Patterson,March,2700,Brown Trout,8.8
+2021,Putnam,Croton River East Branch,Patterson,March,300,Brown Trout,13.2
+2021,Putnam,Croton River East Branch,Southeast,April,1250,Rainbow Trout,8.9
+2021,Putnam,Croton River East Branch,Southeast,April,140,Rainbow Trout,8.9
+2021,Putnam,Croton River East Branch,Southeast,April,350,Rainbow Trout,8.9
+2021,Putnam,Croton River East Branch,Southeast,April,40,Rainbow Trout,8.9
+2021,Putnam,Croton River East Branch,Southeast,April,140,Brown Trout,13.5
+2021,Putnam,Croton River East Branch,Southeast,April,350,Brown Trout,8.8
+2021,Putnam,Croton River East Branch,Southeast,April,40,Brown Trout,13.5
+2021,Putnam,Croton River East Branch,Southeast,April,250,Brown Trout,8.8
+2021,Putnam,Croton River East Branch,Southeast,March,40,Rainbow Trout,9.2
+2021,Putnam,Croton River East Branch,Southeast,March,1250,Rainbow Trout,9.2
+2021,Putnam,Croton River East Branch,Southeast,March,140,Rainbow Trout,9.2
+2021,Putnam,Croton River East Branch,Southeast,March,350,Rainbow Trout,9.2
+2021,Putnam,Croton River East Branch,Southeast,May,1250,Brown Trout,8.9
+2021,Putnam,Croton River East Branch,Southeast,May,140,Brown Trout,13.1
+2021,Putnam,Croton River East Branch,Southeast,May,350,Brown Trout,8.9
+2021,Putnam,Croton River East Branch,Southeast,May,40,Brown Trout,13.1
+2021,Putnam,Croton River West Branch,Carmel,April,20,Brown Trout,13.7
+2021,Putnam,Croton River West Branch,Carmel,April,220,Brown Trout,8.9
+2021,Putnam,Croton River West Branch,Carmel,April,20,Brown Trout,13.5
+2021,Putnam,Croton River West Branch,Carmel,April,220,Brown Trout,8.8
+2021,Putnam,Croton River West Branch,Carmel,March,220,Brown Trout,8.8
+2021,Putnam,Croton River West Branch,Carmel,March,20,Brown Trout,13.2
+2021,Putnam,Croton River West Branch,Carmel,May,220,Brown Trout,8.9
+2021,Putnam,Croton River West Branch,Carmel,May,20,Brown Trout,13.1
+2021,Putnam,Croton River West Branch,Kent,March,690,Brown Trout,8.8
+2021,Putnam,Croton River West Branch,Kent,March,80,Brown Trout,13.2
+2021,Fulton,Crum Creek,Oppenheim,April,50,Brown Trout,13.5
+2021,Fulton,Crum Creek,Oppenheim,April,460,Brown Trout,8.7
+2021,Dutchess,Crum Elbow Creek,Hyde Park,March,40,Rainbow Trout,9.2
+2021,Dutchess,Crum Elbow Creek,Hyde Park,March,1130,Rainbow Trout,9.2
+2021,Dutchess,Crum Elbow Creek,Hyde Park,March,390,Rainbow Trout,9.2
+2021,Dutchess,Crum Elbow Creek,Hyde Park,March,130,Rainbow Trout,9.2
+2021,Allegany,Cryder Creek,Independence,March,160,Brown Trout,13.3
+2021,Allegany,Cryder Creek,Independence,March,1400,Brown Trout,9.2
+2021,St Lawrence,Curtis Pond,Colton,October,500,Brook Trout,4.0
+2021,St Lawrence,Darning Needle Pond,Clifton,October,800,Brook Trout,4.0
+2021,Franklin,Dawson Pond,Harrietstown,October,300,Brook Trout,4.0
+2021,Washington,Dead Lake,Jackson,April,250,Brown Trout,13.1
+2021,Washington,Dead Lake,Jackson,April,240,Brook Trout,7.9
+2021,Essex,Deadwater Pond,North Hudson,April,150,Brown Trout,13.0
+2021,Franklin,Debar Pond,Duane,May,130,Landlocked Salmon,6.5
+2021,Franklin,Debar Pond,Duane,May,220,Splake,8.5
+2021,Hamilton,Debraine Lake,Morehouse,September,400,Brook Trout,3.8
+2021,Essex,Deep Hollow (Kilkenny) Pond,Elizabethtown,May,200,Rainbow Trout,18.0
+2021,Essex,Deep Hollow (Kilkenny) Pond,Elizabethtown,May,800,Rainbow Trout,14.0
+2021,Suffolk,Deep Pond,Riverhead,October,320,Brown Trout,12.2
+2021,Essex,Deer Creek,Minerva,May,250,Brown Trout,13.0
+2021,Hamilton,Deer Pond,Arietta,September,300,Brook Trout,3.7
+2021,Franklin,Deer Pond,Brighton,May,230,Brown Trout,8.0
+2021,Essex,Deer Pond,Minerva,October,1400,Brook Trout,3.8
+2021,St Lawrence,Deer Pond,Piercefield,October,120,Brook Trout,4.0
+2021,St Lawrence,Deer Pond,Piercefield,September,881,Brook Trout,0.4
+2021,Franklin,Deer River,Brandon,May,250,Brown Trout,13.1
+2021,Franklin,Deer River,Brandon,May,2220,Brown Trout,9.0
+2021,Lewis,Deer River West Branch,Montague,May,330,Brook Trout,9.0
+2021,Delaware,Delaware River East Branch,Middletown,April,160,Brown Trout,13.7
+2021,Delaware,Delaware River East Branch,Middletown,April,1430,Brown Trout,8.9
+2021,Delaware,Delaware River East Branch,Middletown Roxbury,April,90,Brown Trout,13.7
+2021,Delaware,Delaware River East Branch,Middletown Roxbury,April,800,Brown Trout,8.9
+2021,Delaware,Delaware River East Branch,Roxbury,April,550,Brown Trout,8.9
+2021,Delaware,Delaware River East Branch,Roxbury,April,60,Brown Trout,13.7
+2021,Delaware,Delaware River West Branch,Delhi,April,870,Brown Trout,8.8
+2021,Delaware,Delaware River West Branch,Delhi,April,80,Brown Trout,13.4
+2021,Delaware,Delaware River West Branch,Delhi,April,100,Brown Trout,8.8
+2021,Delaware,Delaware River West Branch,Delhi,April,870,Brown Trout,8.8
+2021,Delaware,Delaware River West Branch,Delhi,April,100,Brown Trout,13.2
+2021,Delaware,Delaware River West Branch,Delhi,April,750,Brown Trout,8.8
+2021,Delaware,Delaware River West Branch,Delhi,April,80,Brown Trout,13.2
+2021,Delaware,Delaware River West Branch,Delhi,April,750,Brown Trout,8.8
+2021,Delaware,Delaware River West Branch,Delhi,May,160,Brown Trout,13.1
+2021,Delaware,Delaware River West Branch,Delhi,May,870,Brown Trout,8.9
+2021,Delaware,Delaware River West Branch,Delhi,May,750,Brown Trout,8.9
+2021,Delaware,Delaware River West Branch,Delhi,May,140,Brown Trout,13.1
+2021,Delaware,Delaware River West Branch,Delhi,May,870,Brown Trout,8.8
+2021,Delaware,Delaware River West Branch,Delhi,May,100,Brown Trout,14.1
+2021,Delaware,Delaware River West Branch,Delhi,May,750,Brown Trout,8.8
+2021,Delaware,Delaware River West Branch,Delhi,May,80,Brown Trout,14.1
+2021,Delaware,Delaware River West Branch,Hamden Walton,April,150,Brown Trout,13.2
+2021,Delaware,Delaware River West Branch,Hamden Walton,April,1330,Brown Trout,8.8
+2021,Delaware,Delaware River West Branch,Hamden Walton,April,150,Brown Trout,13.4
+2021,Delaware,Delaware River West Branch,Hamden Walton,April,1330,Brown Trout,8.8
+2021,Delaware,Delaware River West Branch,Hamden Walton,May,1330,Brown Trout,8.9
+2021,Delaware,Delaware River West Branch,Hamden Walton,May,1330,Brown Trout,8.8
+2021,Delaware,Delaware River West Branch,Hamden Walton,May,250,Brown Trout,13.1
+2021,Delaware,Delaware River West Branch,Hamden Walton,May,150,Brown Trout,14.1
+2021,Delaware,Delaware River West Branch,Harpersfield,April,70,Brown Trout,13.4
+2021,Delaware,Delaware River West Branch,Harpersfield,April,640,Brown Trout,8.8
+2021,Delaware,Delaware River West Branch,Harpersfield,April,640,Brown Trout,8.8
+2021,Delaware,Delaware River West Branch,Harpersfield,April,70,Brown Trout,13.2
+2021,Delaware,Delaware River West Branch,Harpersfield,May,640,Brown Trout,8.9
+2021,Delaware,Delaware River West Branch,Harpersfield,May,120,Brown Trout,13.1
+2021,Delaware,Delaware River West Branch,Harpersfield,May,640,Brown Trout,8.8
+2021,Delaware,Delaware River West Branch,Harpersfield,May,70,Brown Trout,14.1
+2021,Delaware,Delaware River West Branch,Kortright,April,20,Brown Trout,13.4
+2021,Delaware,Delaware River West Branch,Kortright,April,210,Brown Trout,8.8
+2021,Delaware,Delaware River West Branch,Kortright,April,20,Brown Trout,13.2
+2021,Delaware,Delaware River West Branch,Kortright,April,210,Brown Trout,8.8
+2021,Delaware,Delaware River West Branch,Kortright,May,40,Brown Trout,13.1
+2021,Delaware,Delaware River West Branch,Kortright,May,210,Brown Trout,8.9
+2021,Delaware,Delaware River West Branch,Kortright,May,210,Brown Trout,8.8
+2021,Delaware,Delaware River West Branch,Kortright,May,20,Brown Trout,14.1
+2021,Oneida,Delta Lake,Western,June,51700,Walleye,1.4
+2021,Madison,Deruyter Reservoir,De Ruyter,April,1728000,Walleye,0.3
+2021,Franklin,Deuel Pond,Santa Clara,September,150,Brook Trout,4.0
+2021,Genesee,Dewitt Pond,Batavia,April,500,Brown Trout,13.0
+2021,Essex,Dimmick Pond,Minerva,May,160,Brown Trout,13.0
+2021,Putnam,Diverting Reservoir,Southeast,April,930,Brown Trout,8.9
+2021,Putnam,Diverting Reservoir,Southeast,November,1000,Brown Trout,7.3
+2021,Allegany,Dodge Creek,Clarksville,March,220,Brown Trout,13.3
+2021,Allegany,Dodge Creek,Clarksville,March,1950,Rainbow Trout,9.2
+2021,St Lawrence,Dog Pond,Colton,October,500,Brook Trout,4.0
+2021,Westchester,Dogwood Pond,Cortlandt,April,230,Brown Trout,8.8
+2021,Westchester,Dogwood Pond,Cortlandt,April,170,Brook Trout,8.9
+2021,Franklin,Drain Pond,Bellmont,May,130,Rainbow Trout,10.2
+2021,Clinton,Dry Mill Brook,Peru and Ausable,April,60,Brown Trout,13.5
+2021,Clinton,Dry Mill Brook,Peru and Ausable,April,550,Brown Trout,8.9
+2021,Warren,Duck Pond,Horicon,September,500,Brook Trout,3.9
+2021,Broome,Dudley Creek,Lisle,March,40,Brown Trout,13.4
+2021,Broome,Dudley Creek,Lisle,March,330,Brown Trout,8.8
+2021,Cortland,Durkee Park Pond,Homer,April,230,Brown Trout,9.3
+2021,Cortland,Durkee Park Pond,Homer,April,50,Brown Trout,13.7
+2021,Cortland,Durkee Park Pond,Homer,April,440,Rainbow Trout,8.6
+2021,Cayuga,Dutch Hollow Brook,Owasco,October,10000,Rainbow Trout,3.8
+2021,Saratoga,Dwaas Kill,Halfmoon Clifton Park,April,620,Brook Trout,8.9
+2021,Allegany,Dyke Creek,Andover,March,1650,Rainbow Trout,9.2
+2021,Allegany,Dyke Creek,Andover,March,180,Brown Trout,13.3
+2021,Essex,Eagle Lake,Crown Point Ticonderoga,April,4280,Brown Trout,8.7
+2021,Essex,Eagle Lake,Ticonderoga,April,400,Brown Trout,13.0
+2021,Essex,Eagle Lake,Ticonderoga,September,125,Brown Trout,15.0
+2021,Warren,Eagle Pond,Johnsburg,September,150,Brook Trout,3.9
+2021,Hamilton,Eagles Nest Pond,Inlet,September,400,Brook Trout,3.8
+2021,Essex,Eagles Nest Pond,Moriah,September,300,Brook Trout,3.9
+2021,Essex,East Branch Ausable River,Jay,April,400,Rainbow Trout,13.0
+2021,Essex,East Branch Ausable River,Jay,April,6300,Brown Trout,8.5
+2021,Essex,East Branch Ausable River,Jay,April,700,Brown Trout,13.5
+2021,Essex,East Branch Ausable River,Jay & Keene,April,7010,Brown Trout,8.5
+2021,Essex,East Branch Ausable River,Jay & Keene,April,780,Brown Trout,13.5
+2021,Essex,East Branch Ausable River,Keene,April,600,Rainbow Trout,13.0
+2021,Essex,East Branch Ausable River,Keene,May,1350,Brook Trout,9.0
+2021,Essex,East Branch Ausable River,Keene,May,150,Brook Trout,9.0
+2021,Essex,East Branch Ausable River,Keene,September,800,Rainbow Trout,15.0
+2021,Broome,East Branch Nanticoke Creek,Maine,March,160,Rainbow Trout,9.1
+2021,Broome,East Branch Nanticoke Creek,Maine,March,20,Brown Trout,13.4
+2021,Tioga,East Branch Owego Creek,Berkshire Richford,March,210,Brown Trout,13.4
+2021,Tioga,East Branch Owego Creek,Berkshire Richford,March,1890,Brown Trout,8.8
+2021,Tioga,East Branch Owego Creek,Newark Valley Owego,March,130,Brown Trout,13.4
+2021,Tioga,East Branch Owego Creek,Newark Valley Owego,March,1170,Brown Trout,8.8
+2021,Cortland,East Branch Tioughnioga River,Cortlandville,April,360,Brown Trout,13.8
+2021,Cortland,East Branch Tioughnioga River,Cortlandville,April,3270,Brown Trout,9.0
+2021,Cortland,East Branch Tioughnioga River,Truxton,April,150,Brown Trout,13.8
+2021,Cortland,East Branch Tioughnioga River,Truxton,April,1370,Brown Trout,9.1
+2021,Fulton,East Canada Creek,Oppenheim Stratford,May,340,Brown Trout,13.1
+2021,Fulton,East Canada Creek,Oppenheim Stratford,May,460,Brown Trout,13.1
+2021,Fulton,East Canada Creek,Oppenheim Stratford,May,4150,Brown Trout,8.6
+2021,Fulton,East Caroga Lake,Caroga,April,1040,Rainbow Trout,8.4
+2021,Greene,East Kill,Jewett,April,1100,Brown Trout,8.8
+2021,Greene,East Kill,Jewett,April,120,Brown Trout,8.8
+2021,Wyoming,East Koy Creek,Gainesville,April,2740,Brown Trout,9.2
+2021,Wyoming,East Koy Creek,Gainesville,April,2740,Brown Trout,9.2
+2021,Wyoming,East Koy Creek,Gainesville,April,300,Brown Trout,13.1
+2021,Wyoming,East Koy Creek,Gainesville,April,300,Brown Trout,13.1
+2021,Wyoming,East Koy Creek,Gainesville,March,2740,Brown Trout,9.0
+2021,Wyoming,East Koy Creek,Gainesville,March,300,Brown Trout,13.3
+2021,Wyoming,East Koy Creek,Gainesville,May,300,Brown Trout,13.8
+2021,Wyoming,East Koy Creek,Gainesville,May,2740,Brown Trout,10.0
+2021,Suffolk,East Lake,Brookhaven,April,440,Rainbow Trout,8.9
+2021,Suffolk,East Lake,Brookhaven,April,280,Brown Trout,8.7
+2021,Madison,Eaton Reservoir,Eaton,April,1860,Brown Trout,7.8
+2021,Madison,Eaton Reservoir,Eaton,April,760000,Walleye,0.3
+2021,Franklin,Echo Pond,Santa Clara,October,500,Brook Trout,4.0
+2021,Warren,Edgecomb Pond,Bolton,April,500,Rainbow Trout,9.3
+2021,Warren,Edgecomb Pond,Bolton,April,100,Rainbow Trout,14.9
+2021,Warren,Edgecomb Pond,Bolton,October,1100,Brook Trout,4.9
+2021,Erie,Eighteenmile Creek,Boston,March,40,Brown Trout,14.1
+2021,Erie,Eighteenmile Creek,Boston,March,340,Brown Trout,9.3
+2021,Erie,Eighteenmile Creek,Evans,April,5000,Rainbow Trout,9.3
+2021,Erie,Eighteenmile Creek,Evans,March,20000,Steelhead,5.4
+2021,Erie,Eighteenmile Creek,Evans,October,10000,Rainbow Trout,6.9
+2021,Niagara,Eighteenmile Creek,Newfane,April,7000,Steelhead,5.6
+2021,Niagara,Eighteenmile Creek,Newfane,April,111390,Chinook,3.6
+2021,Niagara,Eighteenmile Creek,Newfane,April,10000,Steelhead,5.6
+2021,Niagara,Eighteenmile Creek,Newfane,March,22500,Coho,2.5
+2021,Hamilton,Eighth Lake,Inlet,April,1100,Lake Trout,6.2
+2021,Hamilton,Eighth Lake,Inlet,June,12160,Round Whitefish,1.0
+2021,Hamilton,Eighth Lake,Inlet,May,2440,Rainbow Trout,9.3
+2021,Essex,Eighth Lake Essex Chain,Newcomb,October,650,Brook Trout,3.8
+2021,Hamilton,Elbow Creek Reservoir,Wells,June,100,Brook Trout,8.5
+2021,Chemung,Eldridge Lake,Elmira,April,150,Brown Trout,13.0
+2021,Chemung,Eldridge Lake,Elmira,April,870,Rainbow Trout,8.9
+2021,Chemung,Eldridge Lake,Elmira,April,440,Rainbow Trout,8.9
+2021,Otsego,Elk Brook,Maryland,April,110,Brown Trout,13.3
+2021,Otsego,Elk Brook,Maryland,April,950,Brown Trout,8.9
+2021,Erie,Ellicott Creek,Amherst,March,550,Rainbow Trout,8.9
+2021,Erie,Ellicott Creek,Amherst,March,60,Brown Trout,14.1
+2021,Cattaraugus,Elton Creek,Freedom,March,160,Brown Trout,13.3
+2021,Cattaraugus,Elton Creek,Freedom,March,1440,Brown Trout,9.2
+2021,Franklin,Embody Pond,Santa Clara,May,130,Brook Trout,2.0
+2021,Tompkins,Enfield Ck T4,Enfield,April,10,Brown Trout,14.0
+2021,Tompkins,Enfield Ck T4,Enfield,April,70,Brown Trout,8.9
+2021,Tompkins,Enfield Creek,Enfield,April,50,Brown Trout,14.0
+2021,Tompkins,Enfield Creek,Enfield,April,480,Brown Trout,8.9
+2021,Tompkins,Enfield Creek,Ithaca (C),May,12500,Rainbow Trout,6.5
+2021,Warren,English Brook,Lake George,April,45,Brook Trout,10.3
+2021,Warren,English Brook,Lake George,April,450,Brook Trout,9.7
+2021,Essex,Ensign Pond,Moriah,April,300,Brown Trout,13.0
+2021,Herkimer,Evergreen Lake,Webb,October,840,Brook Trout,3.8
+2021,Onondaga,Fabius Brook,,March,1300,Brook Trout,9.2
+2021,Tompkins,Fall Creek,Groton,April,1800,Brown Trout,8.7
+2021,Tompkins,Fall Creek,Groton,April,200,Brown Trout,14.0
+2021,Cayuga,Fall Creek,Summer Hill,April,1310,Brook Trout,8.3
+2021,Cayuga,Fall Creek,Summer Hill,November,1960,Brook Trout,7.0
+2021,Hamilton,Falls Pond,Morehouse,September,1000,Brook Trout,4.4
+2021,Franklin,Federation Pond,Santa Clara,October,200,Brook Trout,4.0
+2021,Jefferson,Felts Mills Creek,Champion Rutland,May,1310,Brook Trout,8.9
+2021,Clinton,Fern Lake,Black Brook,June,9500,Walleye,1.4
+2021,Hamilton,Feullard Lake,Morehouse,September,150,Brook Trout,3.8
+2021,Essex,Fifth Lake Essex Chain,Minerva,May,960,Rainbow Trout,8.5
+2021,Essex,Fifth Lake Essex Chain,Minerva,May,100,Landlocked Salmon,6.7
+2021,Broome,Finch Hollow Site 1 (Overbrook,Union,April,870,Rainbow Trout,8.7
+2021,Chautauqua,Findley Lake,Mina,June,6600,Walleye,1.5
+2021,Chautauqua,Findley Lake,Mina,October,1450,Muskellunge,8.7
+2021,Hamilton,First Lake,Indian Lake,May,520,Rainbow Trout,8.5
+2021,Hamilton,First Lake,Indian Lake,October,1200,Brook Trout,3.8
+2021,Essex,Fish & Game Club Pond,Willsboro,May,200,Rainbow Trout,13.0
+2021,Essex,Fish & Game Club Pond,Willsboro,May,125,Rainbow Trout,17.0
+2021,Oneida,Fish Creek East Branch,Annsville,May,190,Brown Trout,13.4
+2021,Oneida,Fish Creek East Branch,Annsville,May,210,Brown Trout,13.4
+2021,Oneida,Fish Creek East Branch,Annsville,May,1860,Brown Trout,8.5
+2021,Oneida,Fish Creek East Branch,Annsville,May,210,Brown Trout,13.4
+2021,Oneida,Fish Creek East Branch,Annsville,May,1700,Brown Trout,8.5
+2021,Oneida,Fish Creek East Branch,Annsville,May,190,Brown Trout,13.4
+2021,Lewis,Fish Creek East Branch,Lewis,May,240,Brown Trout,13.5
+2021,Lewis,Fish Creek East Branch,Lewis,May,160,Rainbow Trout,9.2
+2021,Lewis,Fish Creek East Branch,Lewis,May,1400,Brown Trout,8.8
+2021,Lewis,Fish Creek East Branch,Lewis,May,70,Brown Trout,13.1
+2021,Lewis,Fish Creek East Branch,Lewis,May,2130,Brook Trout,0.6
+2021,Lewis,Fish Creek East Branch,Lewis,May,70,Brown Trout,13.5
+2021,Lewis,Fish Creek East Branch,Lewis,May,620,Brown Trout,8.8
+2021,Oneida,Fish Creek West Branch,Annsville Camden,April,490,Brown Trout,13.6
+2021,Oneida,Fish Creek West Branch,Annsville Camden,April,4370,Brown Trout,8.9
+2021,Oneida,Fish Creek West Branch,Camden,April,80,Brown Trout,13.8
+2021,Oneida,Fish Creek West Branch,Camden,April,710,Brown Trout,8.6
+2021,Oneida,Fish Creek West Branch,Camden,June,180,Brown Trout,13.4
+2021,Oneida,Fish Creek West Branch,Camden,June,1600,Brown Trout,8.4
+2021,Oneida,Fish Creek West Branch,Camden,May,1600,Brown Trout,9.0
+2021,Fulton,Fish Hatchery Pond,Caroga,September,200,Brook Trout,3.7
+2021,Franklin,Fish Pond,,May,3000,Round Whitefish,1.0
+2021,Franklin,Fishhole Pond,Franklin,April,120,Brook Trout,8.8
+2021,Dutchess,Fishkill Creek,Beacon Fishkill,March,110,Brown Trout,13.2
+2021,Dutchess,Fishkill Creek,Beacon Fishkill,March,1000,Brown Trout,9.0
+2021,Dutchess,Fishkill Creek,Beekman,March,320,Brown Trout,13.2
+2021,Dutchess,Fishkill Creek,Beekman,March,2850,Brown Trout,9.0
+2021,Dutchess,Fishkill Creek,Fishkill,March,2290,Brown Trout,9.0
+2021,Dutchess,Fishkill Creek,Fishkill,March,260,Brown Trout,13.2
+2021,St Lawrence,Fishpole Pond,Clifton,October,400,Brook Trout,4.0
+2021,Cattaraugus,Five Mile Creek,Allegany,April,100,Brown Trout,13.1
+2021,Cattaraugus,Five Mile Creek,Allegany,April,890,Brown Trout,9.4
+2021,Essex,Five Mile Run,Ticonderoga,March,100,Brown Trout,13.5
+2021,Franklin,Follensby Clear Pond,Santa Clara,April,300,Landlocked Salmon,6.5
+2021,Lewis,Forestry Pond,Lowville,June,300,Rainbow Trout,9.3
+2021,Cattaraugus,Forks Creek,Great Valley,April,1110,Brown Trout,9.2
+2021,Cattaraugus,Forks Creek,Great Valley,April,120,Brown Trout,13.1
+2021,Suffolk,Fort Pond,East Hampton,June,7120,Walleye,1.3
+2021,Schuyler,Foster Pond,Hector,April,270,Brook Trout,8.3
+2021,Putnam,Foundry Brook,Philipstown,April,20,Brown Trout,13.3
+2021,Putnam,Foundry Brook,Philipstown,April,220,Brown Trout,8.9
+2021,Herkimer,Fourth Lake,Webb,April,5800,Lake Trout,6.3
+2021,Herkimer,Fourth Lake,Webb,April,4300,Landlocked Salmon,6.5
+2021,Herkimer,Fourth Lake,Webb,April,6000,Rainbow Trout,8.7
+2021,Herkimer,Fourth Lake,Webb,June,2500,Rainbow Trout,9.5
+2021,Herkimer,Fourth Lake,Webb,May,2000,Rainbow Trout,8.9
+2021,Hamilton,Franks Pond,Arietta,September,200,Brook Trout,3.7
+2021,Herkimer,Fulmer Creek,German Flats,April,70,Rainbow Trout,10.5
+2021,Herkimer,Fulmer Creek,German Flats,April,630,Rainbow Trout,9.5
+2021,Onondaga,Furnace Brook,,March,400,Brook Trout,9.2
+2021,Hamilton,G Lake,Arietta,September,1800,Brook Trout,3.7
+2021,Warren,Gay Pond,Warrensburg,September,200,Brook Trout,3.9
+2021,Onondaga,Geddes Brook,,March,100,Brown Trout,12.0
+2021,Onondaga,Geddes Brook,,March,400,Brown Trout,9.0
+2021,Chenango,Genegantslet Creek,Greene,April,1940,Brown Trout,8.8
+2021,Chenango,Genegantslet Creek,Greene,April,220,Brown Trout,13.0
+2021,Chenango,Genegantslet Creek,Smithville,April,170,Brown Trout,8.8
+2021,Chenango,Genegantslet Creek,Smithville,April,20,Brown Trout,13.0
+2021,Chenango,Genegantslet Creek,Smithville,April,490,Brown Trout,8.8
+2021,Chenango,Genegantslet Creek,Smithville,April,60,Brown Trout,13.0
+2021,Allegany,Genesee River,Amity,April,4960,Brown Trout,9.2
+2021,Allegany,Genesee River,Amity,April,550,Brown Trout,13.1
+2021,Allegany,Genesee River,Amity,April,4960,Rainbow Trout,9.2
+2021,Allegany,Genesee River,Amity,April,550,Brown Trout,13.1
+2021,Allegany,Genesee River,Amity,March,550,Brown Trout,13.3
+2021,Allegany,Genesee River,Amity,March,4960,Rainbow Trout,9.2
+2021,Allegany,Genesee River,Amity,May,550,Brown Trout,13.8
+2021,Allegany,Genesee River,Amity,May,4960,Brown Trout,10.0
+2021,Allegany,Genesee River,Amity,November,1270,Brown Trout,13.2
+2021,Allegany,Genesee River,Amity,October,14880,Rainbow Trout,6.1
+2021,Monroe,Genesee River,Rochester,April,35000,Steelhead,5.0
+2021,Monroe,Genesee River,Rochester,June,15000,Chinook,3.5
+2021,Monroe,Genesee River,Rochester,May,111390,Chinook,3.2
