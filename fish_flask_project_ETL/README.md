@@ -11,7 +11,7 @@ the waterquality of the waterbodies or location come into play?
 
 ## Technology Used
 - Programming Language - Python, SQL
-- Relational Database - PostgresSQL
+- Relational Database - PostgreSQL
 
 ## Dataset Used
 1. Fish Stocking API: The Department of Environmental Conservation (DEC) 
