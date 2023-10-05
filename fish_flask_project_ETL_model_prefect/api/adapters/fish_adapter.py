@@ -22,5 +22,6 @@ class FishAdapter:
     def run(self, conn, cursor):
         attrs=self.select_attributes()
         fish_obj=Fish(**attrs)
-        #fish=save(fish_obj, conn, cursor)
+        fish=save(fish_obj, conn, cursor)
+        #breakpoint()
         return fish_obj

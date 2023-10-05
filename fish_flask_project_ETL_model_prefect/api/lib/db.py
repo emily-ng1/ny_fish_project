@@ -9,6 +9,10 @@ test_cursor=test_conn.cursor()
 conn = psycopg2.connect(dbname = DB_NAME, user = DB_USER, password=DB_PASSWORD)
 cursor=conn.cursor()
 
+class DataEmptyError(Exception):
+    pass
+
+
 #Build db
 def get_db():
     if "db" not in g:
@@ -73,13 +77,15 @@ def values(obj):
 
 def save(obj, conn, cursor):
     s_str = ', '.join(len(values(obj)) * ['%s'])
-    venue_str = f"""INSERT INTO {obj.__table__} ({keys(obj)}) VALUES ({s_str}) ON CONFLICT ON CONSTRAINT {obj.__constraint__} DO NOTHING;"""
-    cursor.execute(venue_str, list(values(obj)))
+    query = f"""INSERT INTO "{obj.__table__}" ({keys(obj)}) VALUES ({s_str}) ON CONFLICT ON CONSTRAINT {obj.__constraint__} DO NOTHING;"""
+    cursor.execute(query, list(values(obj)))
     conn.commit()
-    
+
     cursor.execute(f'SELECT * FROM {obj.__table__} ORDER BY id DESC LIMIT 1')
     record = cursor.fetchone()
     return build_from_record(type(obj), record)
+
+
 
 def save_model_dates(conn, insert_Class, from_Class):
     statement=f'''

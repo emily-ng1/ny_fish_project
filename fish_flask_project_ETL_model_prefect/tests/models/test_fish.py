@@ -18,7 +18,7 @@ def test_fish_mass_assignment():
                            "month":"April", "number":30, "species":"Rainbow Trout", "size_inches":9.5}
 
 def test_save_fish(clean_tables):
-    fish=Fish(year=2021, waterbody="Accessible Pond 1",
+    fish=Fish(year=2021, waterbody="Redfield Sportsmen's Pond",
               month="April", number=30, species="Rainbow Trout", size_inches=9.5)
     saved_fish=save(fish, test_conn, test_cursor)
 
