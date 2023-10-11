@@ -1,0 +1,88 @@
+[0m22:34:39.769671 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x106e537c0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x108b99a20>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x108b99ea0>]}
+
+
+============================== 22:34:39.772025 | 5f95b275-585b-4928-9d7e-3791d42985b5 ==============================
+[0m22:34:39.772025 [info ] [MainThread]: Running with dbt=1.6.3
+[0m22:34:39.772312 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': '/Users/emilyng/.dbt', 'debug': 'False', 'version_check': 'True', 'log_path': 'logs', 'warn_error': 'None', 'fail_fast': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'log_format': 'default', 'invocation_command': 'dbt init duckdbt_setup_emily', 'introspect': 'True', 'static_parser': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'send_anonymous_usage_stats': 'True'}
+[0m22:34:39.772763 [debug] [MainThread]: Starter project path: /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/dbt/include/starter_project
+[0m22:34:39.776577 [info ] [MainThread]: 
+Your new dbt project "duckdbt_setup_emily" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m22:34:39.776768 [info ] [MainThread]: Setting up your profile.
+[0m22:35:16.558658 [error] [MainThread]: Encountered an error:
+
+[0m22:35:16.563480 [error] [MainThread]: Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/dbt/cli/requires.py", line 87, in wrapper
+    result, success = func(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/dbt/cli/requires.py", line 72, in wrapper
+    return func(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/dbt/cli/main.py", line 469, in init
+    results = task.run()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/dbt/task/init.py", line 294, in run
+    if not self.check_if_can_write_profile(profile_name=profile_name):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/dbt/task/init.py", line 202, in check_if_can_write_profile
+    response = click.confirm(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/click/termui.py", line 237, in confirm
+    raise Abort() from None
+click.exceptions.Abort
+
+[0m22:35:16.564852 [debug] [MainThread]: Command `dbt init` failed at 22:35:16.564645 after 36.81 seconds
+[0m22:35:16.565436 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x106e537c0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x108b9a140>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x108b9b0a0>]}
+[0m22:35:16.566024 [debug] [MainThread]: Flushing usage events
+[0m22:38:56.859928 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x103937d00>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10636d9f0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10636de70>]}
+
+
+============================== 22:38:56.862971 | 14d8d6a1-0e30-42f4-885f-db865c3ed835 ==============================
+[0m22:38:56.862971 [info ] [MainThread]: Running with dbt=1.6.3
+[0m22:38:56.863297 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': '/Users/emilyng/.dbt', 'fail_fast': 'False', 'warn_error': 'None', 'log_path': 'logs', 'version_check': 'True', 'debug': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'log_format': 'default', 'static_parser': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'invocation_command': 'dbt init duckdbt', 'target_path': 'None', 'introspect': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m22:38:56.863843 [debug] [MainThread]: Starter project path: /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/dbt/include/starter_project
+[0m22:38:56.866822 [info ] [MainThread]: 
+Your new dbt project "duckdbt" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m22:38:56.867038 [info ] [MainThread]: Setting up your profile.
+[0m22:39:03.006506 [error] [MainThread]: Encountered an error:
+
+[0m22:39:03.010856 [error] [MainThread]: Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/dbt/cli/requires.py", line 87, in wrapper
+    result, success = func(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/dbt/cli/requires.py", line 72, in wrapper
+    return func(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/dbt/cli/main.py", line 469, in init
+    results = task.run()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/dbt/task/init.py", line 294, in run
+    if not self.check_if_can_write_profile(profile_name=profile_name):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/dbt/task/init.py", line 202, in check_if_can_write_profile
+    response = click.confirm(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/click/termui.py", line 237, in confirm
+    raise Abort() from None
+click.exceptions.Abort
+
+[0m22:39:03.011784 [debug] [MainThread]: Command `dbt init` failed at 22:39:03.011643 after 6.18 seconds
+[0m22:39:03.012200 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x103937d00>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10636f010>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10636f040>]}
+[0m22:39:03.012703 [debug] [MainThread]: Flushing usage events

@@ -6,7 +6,7 @@ import settings #Way2
 test_conn = psycopg2.connect(dbname = settings.TEST_DB_NAME, user = settings.TEST_DB_USER, password=settings.TEST_DB_PASSWORD)
 test_cursor=test_conn.cursor()
 
-conn = psycopg2.connect(dbname = DB_NAME, user = DB_USER, password=DB_PASSWORD)
+conn = psycopg2.connect(dbname = DB_NAME, user = DB_USER, password=DB_PASSWORD, host="localhost", port=5432)
 cursor=conn.cursor()
 
 class DataEmptyError(Exception):
@@ -77,13 +77,31 @@ def values(obj):
 
 def save(obj, conn, cursor):
     s_str = ', '.join(len(values(obj)) * ['%s'])
-    query = f"""INSERT INTO "{obj.__table__}" ({keys(obj)}) VALUES ({s_str}) ON CONFLICT ON CONSTRAINT {obj.__constraint__} DO NOTHING;"""
-    cursor.execute(query, list(values(obj)))
-    conn.commit()
+    #query = f"""INSERT INTO "{obj.__table__}" ({keys(obj)}) VALUES ({s_str}) ON CONFLICT ON CONSTRAINT {obj.__constraint__} DO NOTHING;"""
 
-    cursor.execute(f'SELECT * FROM {obj.__table__} ORDER BY id DESC LIMIT 1')
-    record = cursor.fetchone()
-    return build_from_record(type(obj), record)
+    #query=f"""SELECT datname FROM pg_database;"""
+    #cursor.execute(query)
+    #print(cursor.fetchall())
+
+    #query =f"""SELECT * FROM public.{obj.__table__} LIMIT 10;"""
+
+    # query=f'''SELECT *
+    # FROM pg_catalog.pg_tables
+    # WHERE schemaname != 'pg_catalog' AND
+    # schemaname != 'information_schema';'''
+
+    #query='SELECT current_database();' #[('emilyng',)]
+
+    query='SELECT * FROM employees;'
+    cursor.execute(query)
+    print(cursor.fetchall())
+
+    #cursor.execute(query, list(values(obj)))
+    #conn.commit()
+
+    # cursor.execute(f'SELECT * FROM {obj.__table__} ORDER BY id DESC LIMIT 1')
+    # record = cursor.fetchone()
+    # return build_from_record(type(obj), record)
 
 
 

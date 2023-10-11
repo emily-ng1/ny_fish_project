@@ -10,6 +10,7 @@ from api.models.ny_water_quality import WaterQuality
 from api.lib.db import conn, cursor, save_model_dates, save_model_waterbodies, save_model_fishes
 from api.lib.db import save
 
+#conn and cursor object
 
 def get_fish():
     client_fish=ClientFish()
