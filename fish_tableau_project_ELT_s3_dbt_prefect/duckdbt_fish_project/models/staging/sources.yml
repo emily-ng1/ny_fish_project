@@ -5,9 +5,9 @@ sources:
       - name: fish
         description: fish_dataset
         meta:
-          external_location: "read_parquet('s3://fish-project/fishes/fishes.snappy.parquet')"
+          external_location: "read_parquet('s3://fish-project/source/fishes/fishes.snappy.parquet')"
 
       - name: waterquality
         description: waterquality_dataset
         meta:
-          external_location: "read_parquet('s3://fish-project/waterqualities/waterqualities.snappy.parquet')"
+          external_location: "read_parquet('s3://fish-project/source/waterqualities/waterqualities.snappy.parquet')"

@@ -7,11 +7,13 @@ Does key factors like the size of fishes, the date when the fishes were added to
 the waterquality of the waterbodies or location come into play?
 
 ## Architecture
-
+![img_6.png](img_6.png)
 
 ## Technology Used
-- Programming Language - Python, SQL
-- Relational Database - PostgreSQL
+- Programming Language - Python, SQL (dbt)
+- Data Lake - AWS S3
+- Dashboard - Tableau
+- Cloud Computing - AWS EC2
 
 ## Dataset Used
 1. Fish Stocking API: The Department of Environmental Conservation (DEC) 
@@ -26,4 +28,4 @@ or expected best usage, of each waterbody or waterbody segment.
     https://data.ny.gov/Energy-Environment/Waterbody-Classifications/8xz8-5u5u
 
 ## Data Model
-
+![img_4.png](img_4.png)

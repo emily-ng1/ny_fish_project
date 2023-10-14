@@ -11,3 +11,7 @@ TEST_DB_USER=os.getenv("TEST_DB_USER")
 TEST_DB_PASSWORD=os.getenv("TEST_DB_PASSWORD")
 
 bucket_name=os.getenv("BUCKET_NAME")
+dbt_file_path=os.getenv("DBT_FILE_PATH")
+
+S3_ACCESS_KEY_ID=os.getenv("S3_ACCESS_KEY_ID")
+S3_SECRET_ACCESS_KEY=os.getenv("S3_SECRET_ACCESS_KEY")

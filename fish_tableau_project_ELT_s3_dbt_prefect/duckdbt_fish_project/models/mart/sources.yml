@@ -1,0 +1,13 @@
+version: 2  #version of dbt/api
+sources:
+  - name: s3
+    tables:
+      - name: stg_fish
+        description: fish_dataset
+        meta:
+          external_location: "read_parquet('s3://fish-project/staging/fishes_staging/fishes.snappy.parquet')"
+
+      - name: stg_waterquality
+        description: waterquality_dataset
+        meta:
+          external_location: "read_parquet('s3://fish-project/staging/waterqualities_staging/waterqualities.snappy.parquet')"
