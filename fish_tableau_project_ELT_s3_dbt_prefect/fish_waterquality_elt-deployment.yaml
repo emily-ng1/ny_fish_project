@@ -10,7 +10,7 @@ work_pool_name: s3_work_pool
 tags: []
 parameters: {'bucket_name': 'fish-project'}
 schedule:
-  interval: 31536000
+  interval: 2592000
 is_schedule_active: null
 infra_overrides: {}
 infrastructure:
