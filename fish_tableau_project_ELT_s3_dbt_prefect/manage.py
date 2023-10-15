@@ -5,7 +5,6 @@ from api.adapters.client_waterquality import ClientWaterQuality
 
 import subprocess
 import os
-from settings import dbt_file_path, S3_ACCESS_KEY_ID, S3_SECRET_ACCESS_KEY
 
 
 def get_fish():
@@ -50,10 +49,10 @@ def save_water_quality_to_s3(waterquality_responses, bucket_name):
 # print(wr.s3.read_parquet(path=f"s3://fish-project/mart/fishes_mart/fishes.snappy.parquet"))
 
 
-def run_dbt(dbt_file_path):
+def run_dbt(dbt_file_path, S3_ACCESS_KEY_ID, S3_SECRET_ACCESS_KEY):
     try:
-        S3_ACCESS_KEY_ID
-        S3_SECRET_ACCESS_KEY
+        os.environ['S3_ACCESS_KEY_ID'] = S3_ACCESS_KEY_ID
+        os.environ['S3_SECRET_ACCESS_KEY'] = S3_SECRET_ACCESS_KEY
 
         os.chdir(dbt_file_path) #dbt filepath
 

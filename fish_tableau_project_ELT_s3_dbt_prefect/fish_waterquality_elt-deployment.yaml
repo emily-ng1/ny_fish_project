@@ -8,9 +8,12 @@ version: 392d2574634128158a5caaf164679701
 work_queue_name: fish-queue
 work_pool_name: s3_work_pool
 tags: []
-parameters: {'bucket_name': 'fish-project'}
+parameters: {'bucket_name': 'fish-project',
+             'dbt_file_path': '/Users/emilyng/Data Engineering/Data Engineering BootCamp/Fish Project/fish_tableau_project_ELT_s3_dbt_prefect/duckdbt_fish_project',
+             'S3_ACCESS_KEY_ID':'AKIA3HLQ5Q3PCV43B5G2',
+             'S3_SECRET_ACCESS_KEY': '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'}
 schedule:
-  interval: 2592000
+  interval: 100 #2592000
 is_schedule_active: null
 infra_overrides: {}
 infrastructure:
