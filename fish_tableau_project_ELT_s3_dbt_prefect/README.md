@@ -1,10 +1,13 @@
-# Fish Stocking | Data Engineering Project
+# Fish Stocking | ELT with Data Lake | Data Engineering Project 
 
 ## Introduction
 The purpose of this project is to study the restocking of fish in New York waterbodies. 
-We want to study what types of fish species that usually get restocked in the New York waterbodies.
+We want to study what types of fish species usually get restocked in the different New York waterbodies.
 Does key factors like the size of fishes, the date when the fishes were added to the waterbodies, 
 the waterquality of the waterbodies or location come into play?
+
+With this information people who go fishing in New York waterbodies can target specific waterbodies 
+if they want to catch a specific fish specie or larger size fish.
 
 ## Architecture
 ![img_6.png](img_6.png)
@@ -12,8 +15,9 @@ the waterquality of the waterbodies or location come into play?
 ## Technology Used
 - Programming Language - Python, SQL (dbt)
 - Data Lake - AWS S3
-- Dashboard - Tableau
 - Cloud Computing - AWS EC2
+- Data Orchestrating tool - Prefect
+- Dashboard - Tableau
 
 ## Dataset Used
 1. Fish Stocking API: The Department of Environmental Conservation (DEC) 
@@ -29,3 +33,7 @@ or expected best usage, of each waterbody or waterbody segment.
 
 ## Data Model
 ![img_4.png](img_4.png)
+
+## Tableau Dashboard
+![img_1.png](img_1.png)
+https://public.tableau.com/app/profile/emily.ng7568/viz/NYFishRestock/Dashboard1?publish=yes

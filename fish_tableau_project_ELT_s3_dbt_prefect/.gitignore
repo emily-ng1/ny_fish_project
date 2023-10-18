@@ -1,2 +1,6 @@
 .env
 fish_waterquality_elt-deployment.yaml
+dates.csv
+fishes.csv
+locations.csv
+waterbodies.csv

@@ -1,4 +1,4 @@
-# Fish Stocking | Data Engineering Project
+# Fish Stocking | ETL with Database | Data Engineering Project
 
 ## Introduction
 The purpose of this project is to study the restocking of fish in New York waterbodies. 
