@@ -35,5 +35,5 @@ or expected best usage, of each waterbody or waterbody segment.
 ![img_4.png](img_4.png)
 
 ## Tableau Dashboard
-![img_1.png](img_1.png)
+![img.png](img.png)
 https://public.tableau.com/app/profile/emily.ng7568/viz/NYFishRestock/Dashboard1?publish=yes
