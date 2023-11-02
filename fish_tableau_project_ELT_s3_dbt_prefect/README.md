@@ -10,13 +10,15 @@ With this information people who go fishing in New York waterbodies can target s
 if they want to catch a specific fish specie or larger size fish.
 
 ## Architecture
-![img_6.png](img_6.png)
+![img_1.png](img_1.png)
 
 ## Technology Used
-- Programming Language - Python, SQL (dbt)
+- Programming Language - Python, SQL
 - Data Lake - AWS S3
-- Cloud Computing - AWS EC2
+- Query Engine - DuckDB
+- Transformation Tool - dbt
 - Data Orchestrating tool - Prefect
+- Cloud Computing - AWS EC2
 - Dashboard - Tableau
 
 ## Dataset Used
