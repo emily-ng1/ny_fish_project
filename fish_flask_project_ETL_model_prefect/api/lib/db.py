@@ -77,7 +77,7 @@ def values(obj):
 
 def save(obj, conn, cursor):
     s_str = ', '.join(len(values(obj)) * ['%s'])
-    #query = f"""INSERT INTO "{obj.__table__}" ({keys(obj)}) VALUES ({s_str}) ON CONFLICT ON CONSTRAINT {obj.__constraint__} DO NOTHING;"""
+    query = f"""INSERT INTO "{obj.__table__}" ({keys(obj)}) VALUES ({s_str}) ON CONFLICT ON CONSTRAINT {obj.__constraint__} DO NOTHING;"""
 
     #query=f"""SELECT datname FROM pg_database;"""
     #cursor.execute(query)
@@ -92,16 +92,16 @@ def save(obj, conn, cursor):
 
     #query='SELECT current_database();' #[('emilyng',)]
 
-    query='SELECT * FROM employees;'
-    cursor.execute(query)
-    print(cursor.fetchall())
+    # query='SELECT * FROM employees;'
+    # cursor.execute(query)
+    # print(cursor.fetchall())
 
-    #cursor.execute(query, list(values(obj)))
-    #conn.commit()
+    cursor.execute(query, list(values(obj)))
+    conn.commit()
 
-    # cursor.execute(f'SELECT * FROM {obj.__table__} ORDER BY id DESC LIMIT 1')
-    # record = cursor.fetchone()
-    # return build_from_record(type(obj), record)
+    cursor.execute(f'SELECT * FROM {obj.__table__} ORDER BY id DESC LIMIT 1')
+    record = cursor.fetchone()
+    return build_from_record(type(obj), record)
 
 
 
